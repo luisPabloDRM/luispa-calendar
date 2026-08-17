@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Luispa//Fuerza 2026//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fuerza - Luispa
+BEGIN:VEVENT
+UID:fuerza-a@luispa-calendar
+DTSTAMP:20260817T203000Z
+DTSTART;TZID=Europe/Madrid:20260818T180000
+DTEND;TZID=Europe/Madrid:20260818T184000
+SUMMARY:Fuerza A - Full Body
+DESCRIPTION:OBJETIVO: fuerza tren superior + cuadriceps + cadena posterior.\n\n0-5 min: calentamiento general + 2 series de aproximacion.\n5-17 min: SENTADILLA TRASERA 3x5, RPE 7-8, descanso 90 s.\n17-29 min: PRESS BANCA 4x5, RPE 7-8, descanso 90 s.\n29-37 min: REMO CON PECHO APOYADO 3x8 + PESO MUERTO RUMANO 2x8, alternando.\n37-40 min: PLANCHA 2x30-45 s + registrar cargas.\n\nPROGRESION: si completas todo con RPE <=8, suma 2,5 kg al press banca y 2,5-5 kg a sentadilla en la siguiente A. Si el CrossFit del lunes fue muy exigente de piernas, baja sentadilla a RPE 6-7.
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261229T235959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:fuerza-b@luispa-calendar
+DTSTAMP:20260817T203000Z
+DTSTART;TZID=Europe/Madrid:20260821T070000
+DTEND;TZID=Europe/Madrid:20260821T074000
+SUMMARY:Fuerza B - Full Body
+DESCRIPTION:OBJETIVO: cadena posterior + empuje vertical + tiron + brazos + gemelos + core.\n\n0-5 min: calentamiento + 2 series de aproximacion de peso muerto.\n5-17 min: PESO MUERTO 3x4, RPE 7-8, descanso 2 min.\n17-28 min: PRESS MILITAR 3x5 + DOMINADAS 3x5, alternando.\n28-35 min: HIP THRUST 2x8 + ZANCADA BULGARA 2x8 por pierna.\n35-40 min: ELEVACIONES DE GEMELO 2x12-15 + DEAD BUG 2x8 por lado.\n\nPROGRESION: si completas todo con RPE <=8, suma 2,5 kg al press militar y 5 kg al hip thrust; en peso muerto suma 2,5-5 kg. Si el CrossFit del jueves castigo mucho la espalda, usa jalon al pecho en vez de dominadas.
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261225T235959Z
+END:VEVENT
+END:VCALENDAR
