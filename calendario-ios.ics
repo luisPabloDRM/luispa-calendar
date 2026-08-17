@@ -7,153 +7,153 @@ X-WR-CALNAME:Luispa - Entrenamiento y Desarrollo
 BEGIN:VEVENT
 UID:cf-mo@luispa-calendar
 DTSTAMP:20260817T200000Z
-DTSTART:20260817T160000Z
-DTEND:20260817T171500Z
+DTSTART:20260817T180000
+DTEND:20260817T191500
 SUMMARY:CrossFit
 DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica, intensidad controlada y buena ejecucion.
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261231T235959Z
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261231T235959
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-th@luispa-calendar
 DTSTAMP:20260817T200000Z
-DTSTART:20260820T160000Z
-DTEND:20260820T171500Z
+DTSTART:20260820T180000
+DTEND:20260820T191500
 SUMMARY:CrossFit
 DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica, intensidad controlada y buena ejecucion.
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261231T235959Z
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261231T235959
 END:VEVENT
 BEGIN:VEVENT
 UID:st-tu@luispa-calendar
 DTSTAMP:20260817T200000Z
-DTSTART:20260818T160000Z
-DTEND:20260818T164000Z
+DTSTART:20260818T180000
+DTEND:20260818T184000
 SUMMARY:Fuerza - Gimnasio
 DESCRIPTION:40 min de fuerza. Registrar cargas y repeticiones. Mantener tecnica.
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261231T235959Z
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261231T235959
 END:VEVENT
 BEGIN:VEVENT
 UID:st-fr@luispa-calendar
 DTSTAMP:20260817T200000Z
-DTSTART:20260821T050000Z
-DTEND:20260821T054000Z
+DTSTART:20260821T070000
+DTEND:20260821T074000
 SUMMARY:Fuerza - Gimnasio
 DESCRIPTION:40 min de fuerza. Registrar cargas y repeticiones. Mantener tecnica.
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261231T235959Z
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261231T235959
 END:VEVENT
 BEGIN:VEVENT
 UID:s1@luispa-calendar
 DTSTAMP:20260817T200000Z
-DTSTART:20260818T190000Z
-DTEND:20260818T201500Z
+DTSTART:20260818T210000
+DTEND:20260818T221500
 SUMMARY:Entrevista - LitElement desde cero
 DESCRIPTION:15 min Web Components, Custom Elements y Shadow DOM. 20 min LitElement, customElement, property, render y html. 30 min crear componente sencillo. 10 min explicarlo comparandolo con Angular.
 END:VEVENT
 BEGIN:VEVENT
 UID:s2@luispa-calendar
 DTSTAMP:20260817T200000Z
-DTSTART:20260819T190000Z
-DTEND:20260819T201500Z
+DTSTART:20260819T210000
+DTEND:20260819T221500
 SUMMARY:Entrevista - Web Components
 DESCRIPTION:15 min Custom Elements y lifecycle. 15 min Shadow DOM. 15 min slots. 15 min eventos y comunicacion. 15 min ventajas y desventajas frente a Angular.
 END:VEVENT
 BEGIN:VEVENT
 UID:s3@luispa-calendar
 DTSTAMP:20260817T200000Z
-DTSTART:20260821T190000Z
-DTEND:20260821T201500Z
+DTSTART:20260821T210000
+DTEND:20260821T221500
 SUMMARY:Entrevista - Practica Lit
 DESCRIPTION:50 min crear user-card con propiedades, estado, CustomEvent, slot y estilos encapsulados. 15 min explicarlo como entrevista. 10 min anotar dudas.
 END:VEVENT
 BEGIN:VEVENT
 UID:s4@luispa-calendar
 DTSTAMP:20260817T200000Z
-DTSTART:20260823T180000Z
-DTEND:20260823T191500Z
+DTSTART:20260823T200000
+DTEND:20260823T211500
 SUMMARY:Entrevista - Mini proyecto Lit
 DESCRIPTION:55 min construir user-card completo con propiedades, estado, CustomEvent, slot y Shadow DOM. 10 min explicarlo sin mirar codigo. 10 min anotar puntos debiles.
 END:VEVENT
 BEGIN:VEVENT
 UID:s5@luispa-calendar
 DTSTAMP:20260817T200000Z
-DTSTART:20260825T190000Z
-DTEND:20260825T201500Z
+DTSTART:20260825T210000
+DTEND:20260825T221500
 SUMMARY:Entrevista - Reactividad y lifecycle en Lit
 DESCRIPTION:15 min property y state. 20 min willUpdate, updated y callbacks. 25 min componente con estado reactivo. 15 min cinco preguntas tecnicas en voz alta.
 END:VEVENT
 BEGIN:VEVENT
 UID:s6@luispa-calendar
 DTSTAMP:20260817T200000Z
-DTSTART:20260826T190000Z
-DTEND:20260826T201500Z
+DTSTART:20260826T210000
+DTEND:20260826T221500
 SUMMARY:Entrevista - JavaScript y TypeScript
 DESCRIPTION:15 min this y closures. 20 min Promises, async/await y event loop. 20 min interfaces, types, generics y utility types. 10 min type narrowing y errores. 10 min preguntas tecnicas.
 END:VEVENT
 BEGIN:VEVENT
 UID:s7@luispa-calendar
 DTSTAMP:20260817T200000Z
-DTSTART:20260828T190000Z
-DTEND:20260828T201500Z
+DTSTART:20260828T210000
+DTEND:20260828T221500
 SUMMARY:Entrevista - Experiencia profesional
 DESCRIPTION:Preparar respuestas sobre Duonex, Angular, TypeScript, RxJS, Node, AdonisJS, APIs y bases de datos. Preparar un problema tecnico dificil. Preparar por que buscas cambio y por que te interesa el puesto. Responder en voz alta.
 END:VEVENT
 BEGIN:VEVENT
 UID:s8@luispa-calendar
 DTSTAMP:20260817T200000Z
-DTSTART:20260830T180000Z
-DTEND:20260830T191500Z
+DTSTART:20260830T200000
+DTEND:20260830T211500
 SUMMARY:Entrevista - Simulacion completa
 DESCRIPTION:Simulacion real: presentacion, experiencia, LitElement, Web Components, Angular vs Lit, JavaScript/TypeScript, problemas tecnicos, motivacion y preguntas para la empresa. No estudiar teoria nueva.
 END:VEVENT
 BEGIN:VEVENT
 UID:s9@luispa-calendar
 DTSTAMP:20260817T200000Z
-DTSTART:20260901T190000Z
-DTEND:20260901T201500Z
+DTSTART:20260901T210000
+DTEND:20260901T221500
 SUMMARY:Entrevista - Repaso final
 DESCRIPTION:20 min Lit/LitElement. 15 min Web Components. 15 min Angular vs Lit. 15 min experiencia profesional. 10 min preguntas personales. No aprender contenido nuevo. Terminar y descansar.
 END:VEVENT
 BEGIN:VEVENT
 UID:kisters@luispa-calendar
 DTSTAMP:20260817T200000Z
-DTSTART:20260902T080000Z
-DTEND:20260902T090000Z
+DTSTART:20260902T100000
+DTEND:20260902T110000
 SUMMARY:Entrevista - KISTERS AG
 DESCRIPTION:Entrevista inicial. Repaso recomendado: LitElement, Web Components, Angular, TypeScript y experiencia profesional.
 END:VEVENT
 BEGIN:VEVENT
 UID:post-tu@luispa-calendar
 DTSTAMP:20260817T200000Z
-DTSTART:20260908T190000Z
-DTEND:20260908T201500Z
+DTSTART:20260908T210000
+DTEND:20260908T221500
 SUMMARY:Desarrollo - Angular avanzado
 DESCRIPTION:Implementar una feature con standalone components, signals/RxJS y separacion UI, dominio y datos. Documentar 3 decisiones tecnicas.
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261229T235959Z
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261229T235959
 END:VEVENT
 BEGIN:VEVENT
 UID:post-we@luispa-calendar
 DTSTAMP:20260817T200000Z
-DTSTART:20260909T190000Z
-DTEND:20260909T201500Z
+DTSTART:20260909T210000
+DTEND:20260909T221500
 SUMMARY:Desarrollo - TypeScript y JavaScript
 DESCRIPTION:Practicar generics, constraints, utility types, closures, this, Promise y event loop. Resolver ejercicios y explicar cada resultado.
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261230T235959Z
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261230T235959
 END:VEVENT
 BEGIN:VEVENT
 UID:post-fr@luispa-calendar
 DTSTAMP:20260817T200000Z
-DTSTART:20260911T190000Z
-DTEND:20260911T201500Z
+DTSTART:20260911T210000
+DTEND:20260911T221500
 SUMMARY:Desarrollo - Frontend profesional
 DESCRIPTION:Alternar semanalmente entre Lit/Web Components, RxJS, testing, Node/arquitectura, rendimiento Angular y accesibilidad. Cada sesion debe terminar con una implementacion pequena.
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261225T235959Z
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261225T235959
 END:VEVENT
 BEGIN:VEVENT
 UID:post-su@luispa-calendar
 DTSTAMP:20260817T200000Z
-DTSTART:20260913T180000Z
-DTEND:20260913T191500Z
+DTSTART:20260913T200000
+DTEND:20260913T211500
 SUMMARY:Desarrollo - Proyecto personal
 DESCRIPTION:Trabajar 75 min en Gym Tracker Pro o un ejercicio tecnico. Priorizar una pieza vertical terminada, documentada y lista para revision.
-RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20261227T235959Z
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20261227T235959
 END:VEVENT
 END:VCALENDAR
