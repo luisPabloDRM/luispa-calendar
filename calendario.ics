@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Luispa Plan 2026//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cf-mon@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART:20260817T160000Z
+DTEND:20260817T171500Z
+SUMMARY:CrossFit
+DESCRIPTION:Sesion planificada. Mantener tecnica, registrar cargas y no alargar la sesion.
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261231T235959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-thu@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART:20260820T160000Z
+DTEND:20260820T171500Z
+SUMMARY:CrossFit
+DESCRIPTION:Sesion planificada. Mantener tecnica, registrar cargas y no alargar la sesion.
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261231T235959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:str-tue@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART:20260818T160000Z
+DTEND:20260818T164000Z
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion planificada. Mantener tecnica, registrar cargas y no alargar la sesion.
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261231T235959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:str-fri@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART:20260821T050000Z
+DTEND:20260821T054000Z
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion planificada. Mantener tecnica, registrar cargas y no alargar la sesion.
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261231T235959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:study-tue-pre@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART:20260818T190000Z
+DTEND:20260818T201500Z
+SUMMARY:Entrevista - LitElement desde cero
+DESCRIPTION:Objetivo: aprender LitElement desde cero. Custom Elements y Shadow DOM (15 min). LitElement, customElement, property, render y html (20 min). Crear componente sencillo (30 min). Explicarlo comparandolo con Angular (10 min).
+RRULE:FREQ=WEEKLY;UNTIL=20260901T235959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:study-wed-pre@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART:20260819T190000Z
+DTEND:20260819T201500Z
+SUMMARY:Entrevista - Web Components en profundidad
+DESCRIPTION:Custom Elements y ciclo de vida (15 min). Shadow DOM y encapsulacion (15 min). Slots y composicion (15 min). Eventos y comunicacion (15 min). Ventajas y desventajas frente a Angular (15 min).
+RRULE:FREQ=WEEKLY;UNTIL=20260901T235959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:study-fri-pre@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART:20260821T190000Z
+DTEND:20260821T201500Z
+SUMMARY:Entrevista - Practica y experiencia profesional
+DESCRIPTION:Crear user-card con propiedades, estado, CustomEvent, slot y estilos encapsulados (50 min). Explicarlo como entrevista (15 min). Anotar dudas (10 min).
+RRULE:FREQ=WEEKLY;UNTIL=20260901T235959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:study-sun-pre@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART:20260823T180000Z
+DTEND:20260823T191500Z
+SUMMARY:Entrevista - Practica / simulacion
+DESCRIPTION:Construir un componente Lit completo y explicarlo sin mirar codigo. En las siguientes semanas: reactividad y lifecycle; JavaScript y TypeScript; experiencia profesional; simulacion completa. Priorizar practica y respuestas en voz alta.
+RRULE:FREQ=WEEKLY;UNTIL=20260901T235959Z
+END:VEVENT
+en
