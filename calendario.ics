@@ -1,0 +1,1272 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Luispa Plan 2026//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Luispa - Entrenamiento y Desarrollo
+BEGIN:VEVENT
+UID:ed06b3f1-b97f-40fb-9af7-928ee9180b1c@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260817T180000
+DTEND;TZID=Europe/Madrid:20260817T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:b9dd1af1-10b9-4da6-8b53-4cc3c4d65d49@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260818T180000
+DTEND;TZID=Europe/Madrid:20260818T184000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+END:VEVENT
+BEGIN:VEVENT
+UID:947d340a-2904-4e33-bd0a-59294b7c1ffd@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260818T210000
+DTEND;TZID=Europe/Madrid:20260818T221500
+SUMMARY:Entrevista - LitElement desde cero
+DESCRIPTION:Web Components: Custom Elements y Shadow DOM - 15 min. LitElement\, customElement\, property\, render y html - 20 min. Crear un componente sencillo - 30 min. Explicarlo comparandolo con Angular - 10 min. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:2d5c5433-9d75-46f1-9406-d02f30e806e1@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260819T210000
+DTEND;TZID=Europe/Madrid:20260819T221500
+SUMMARY:Entrevista - Web Components en profundidad
+DESCRIPTION:Custom Elements y ciclo de vida - 15 min. Shadow DOM y encapsulacion - 15 min. Slots y composicion - 15 min. Eventos y comunicacion - 15 min. Ventajas y desventajas frente a Angular - 15 min. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:34ec72a4-f062-44dd-810c-2a0124a9c8f2@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260820T180000
+DTEND;TZID=Europe/Madrid:20260820T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:ee4a9ca1-cc51-4e43-a45b-de77424a423d@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260821T070000
+DTEND;TZID=Europe/Madrid:20260821T074000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+END:VEVENT
+BEGIN:VEVENT
+UID:01306a35-6110-481b-b2e8-348d89e69399@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260821T210000
+DTEND;TZID=Europe/Madrid:20260821T221500
+SUMMARY:Entrevista - Practica Lit
+DESCRIPTION:Crear user-card con propiedades\, estado\, CustomEvent\, slot y estilos encapsulados - 50 min. Explicarlo como entrevista - 15 min. Anotar dudas - 10 min. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:b0d88ab1-a4c9-4053-902f-0549186af8f4@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260823T200000
+DTEND;TZID=Europe/Madrid:20260823T211500
+SUMMARY:Entrevista - Mini proyecto Lit
+DESCRIPTION:Construir un user-card completo con propiedades\, estado\, CustomEvent\, slot y Shadow DOM - 55 min. Explicarlo sin mirar codigo - 10 min. Anotar puntos debiles - 10 min. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:77fa1a2c-7db1-4e96-9671-7b084b1ff4c3@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260824T180000
+DTEND;TZID=Europe/Madrid:20260824T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:c85e48dd-5653-432d-ad28-7a827e73754e@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260825T180000
+DTEND;TZID=Europe/Madrid:20260825T184000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+END:VEVENT
+BEGIN:VEVENT
+UID:a3f76233-0c91-436d-9513-7877ae11a7c3@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260825T210000
+DTEND;TZID=Europe/Madrid:20260825T221500
+SUMMARY:Entrevista - Reactividad y lifecycle en Lit
+DESCRIPTION:property y state - 15 min. willUpdate\, updated y callbacks - 20 min. Crear componente con estado reactivo - 25 min. Cinco preguntas tecnicas en voz alta - 15 min. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:ee28d664-b7d6-4a92-82ff-0001fe7db432@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260826T210000
+DTEND;TZID=Europe/Madrid:20260826T221500
+SUMMARY:Entrevista - JavaScript y TypeScript
+DESCRIPTION:this y closures - 15 min. Promises\, async/await y event loop - 20 min. Interfaces\, types\, generics y utility types - 20 min. Type narrowing y errores - 10 min. Tres preguntas tecnicas - 10 min. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:69492824-a89f-4647-a464-d448b775c488@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260827T180000
+DTEND;TZID=Europe/Madrid:20260827T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:0f8c2edf-87cc-41e4-aeaf-ac3a806af0c2@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260828T070000
+DTEND;TZID=Europe/Madrid:20260828T074000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+END:VEVENT
+BEGIN:VEVENT
+UID:5263a546-022c-4bcb-9649-fa6273eca81c@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260828T210000
+DTEND;TZID=Europe/Madrid:20260828T221500
+SUMMARY:Entrevista - Experiencia profesional
+DESCRIPTION:Preparar respuestas sobre Duonex\, Angular\, TypeScript\, RxJS\, Node\, AdonisJS\, APIs y bases de datos. Preparar un problema tecnico dificil y explicar como lo resolviste. Preparar por que buscas un cambio y por que te interesa el puesto. Responder todo en voz alta. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:75897b35-04f2-4c11-af59-e3a13dbe7dd1@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260830T200000
+DTEND;TZID=Europe/Madrid:20260830T211500
+SUMMARY:Entrevista - Simulacion completa
+DESCRIPTION:Simulacion de 75 min: presentacion\, experiencia\, LitElement\, Web Components\, Angular vs Lit\, JavaScript/TypeScript\, problemas tecnicos\, motivacion y preguntas para la empresa. No estudiar teoria nueva: detectar puntos debiles. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:53828031-fc9e-45ff-b23f-4d8579476d56@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260831T180000
+DTEND;TZID=Europe/Madrid:20260831T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:d75dce5e-b8a2-499c-8577-31d7e3897f93@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260901T180000
+DTEND;TZID=Europe/Madrid:20260901T184000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+END:VEVENT
+BEGIN:VEVENT
+UID:bb65e400-e16c-4c8b-88d7-b8f341db1686@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260901T210000
+DTEND;TZID=Europe/Madrid:20260901T221500
+SUMMARY:Entrevista - Repaso final
+DESCRIPTION:20 min Lit/LitElement. 15 min Web Components. 15 min Angular vs Lit. 15 min experiencia profesional. 10 min preguntas personales. No aprender contenido nuevo. Terminar y descansar. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:cf85ee3a-1710-4b2b-98e4-03a44231fc1d@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260902T210000
+DTEND;TZID=Europe/Madrid:20260902T221500
+SUMMARY:Entrevista - Repaso
+DESCRIPTION:Repasar LitElement\, Web Components\, JavaScript/TypeScript y experiencia profesional. Priorizar practica y respuestas en voz alta. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:1ad91d1f-ecd0-4798-94b8-636029659bef@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260903T180000
+DTEND;TZID=Europe/Madrid:20260903T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:4df26e91-5341-456f-914a-7bc48202525a@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260904T070000
+DTEND;TZID=Europe/Madrid:20260904T074000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+END:VEVENT
+BEGIN:VEVENT
+UID:b52d37d5-87e9-4578-9bda-d42310629c04@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260904T210000
+DTEND;TZID=Europe/Madrid:20260904T221500
+SUMMARY:Desarrollo - Angular avanzado
+DESCRIPTION:Implementar una pequena feature con standalone components\, signals/RxJS y separacion clara entre UI\, dominio y datos. Documentar 3 decisiones tecnicas. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:ca7d730d-b2f4-46d0-8a62-158ff3984195@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260906T200000
+DTEND;TZID=Europe/Madrid:20260906T211500
+SUMMARY:Desarrollo - TypeScript avanzado
+DESCRIPTION:Practicar generics\, constraints\, Pick\, Omit\, Partial\, Record\, discriminated unions y type narrowing. Crear 3 ejemplos reutilizables. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:cffac30f-6124-458b-8e02-9a8236197251@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260907T180000
+DTEND;TZID=Europe/Madrid:20260907T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:3ca07599-74f9-4a5d-8505-e71cad00093f@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260908T180000
+DTEND;TZID=Europe/Madrid:20260908T184000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+END:VEVENT
+BEGIN:VEVENT
+UID:a93dbbd3-fb2f-482a-9251-5d9f70c22255@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260908T210000
+DTEND;TZID=Europe/Madrid:20260908T221500
+SUMMARY:Desarrollo - Lit y Web Components
+DESCRIPTION:Construir un componente Lit reutilizable con propiedades\, estado\, CustomEvent\, slots y Shadow DOM. Compararlo con Angular. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:cae4ae83-85cb-4ba9-ac93-7ef9249ed798@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260909T210000
+DTEND;TZID=Europe/Madrid:20260909T221500
+SUMMARY:Desarrollo - JavaScript asincrono
+DESCRIPTION:Practicar event loop\, microtasks\, macrotasks\, Promise\, async/await\, errores y concurrencia. Resolver ejercicios y explicar cada resultado. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:3f3e6c07-8e83-4c40-9fa8-330b22b37b94@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260910T180000
+DTEND;TZID=Europe/Madrid:20260910T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:fa6597f4-4a69-487f-8fe1-8db74a73929e@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260911T070000
+DTEND;TZID=Europe/Madrid:20260911T074000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+END:VEVENT
+BEGIN:VEVENT
+UID:03b743c4-5ffd-40dc-8a40-3b024c4b52c2@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260911T210000
+DTEND;TZID=Europe/Madrid:20260911T221500
+SUMMARY:Desarrollo - RxJS
+DESCRIPTION:Construir un flujo realista de busqueda con debounceTime\, distinctUntilChanged\, switchMap\, catchError y finalize. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:f07ff62b-5c01-42ca-9f82-b598d60e884a@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260913T200000
+DTEND;TZID=Europe/Madrid:20260913T211500
+SUMMARY:Desarrollo - Testing frontend
+DESCRIPTION:Escribir tests de componente o servicio cubriendo happy path\, errores y casos limite. Revisar mantenibilidad. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:b0aebfe4-98db-4696-86b0-b4ad19a253bf@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260914T180000
+DTEND;TZID=Europe/Madrid:20260914T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:750b45ab-6612-436d-bf92-fb10f739b31a@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260915T180000
+DTEND;TZID=Europe/Madrid:20260915T184000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+END:VEVENT
+BEGIN:VEVENT
+UID:b964bb92-d279-4f22-aa50-008b075e8dee@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260915T210000
+DTEND;TZID=Europe/Madrid:20260915T221500
+SUMMARY:Desarrollo - Node y arquitectura
+DESCRIPTION:Implementar un endpoint con validacion\, controller\, use case\, repository y manejo de errores. Escribir pruebas basicas. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:f5798def-ddcc-47a7-9190-64f10d3fe15c@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260916T210000
+DTEND;TZID=Europe/Madrid:20260916T221500
+SUMMARY:Desarrollo - Arquitectura frontend
+DESCRIPTION:Disenar una pequena aplicacion: componentes\, dominio\, estado\, API y persistencia. Justificar fronteras y evitar sobrearquitectura. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:18711f47-b7ab-4650-b3c9-44b3136cda5b@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260917T180000
+DTEND;TZID=Europe/Madrid:20260917T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:cfdef803-70d7-42f9-9aa4-4f758708655b@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260918T070000
+DTEND;TZID=Europe/Madrid:20260918T074000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+END:VEVENT
+BEGIN:VEVENT
+UID:4ff39a1b-0f01-4dc9-aee6-2b1f1fbc3057@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260918T210000
+DTEND;TZID=Europe/Madrid:20260918T221500
+SUMMARY:Desarrollo - Gym Tracker Pro
+DESCRIPTION:Implementar una pieza pequena y vertical del proyecto: UI\, dominio y datos. Priorizar una funcionalidad terminada. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:43d61a5f-d19c-4c8d-9bc0-55395e9192dc@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260920T200000
+DTEND;TZID=Europe/Madrid:20260920T211500
+SUMMARY:Desarrollo - Entrevista tecnica JS/TS
+DESCRIPTION:Responder preguntas de closures\, this\, prototipos\, event loop\, generics y type narrowing. Implementar 2 ejercicios sin consultar soluciones. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:7908a39e-0505-4c5d-b07e-cfb815af417a@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260921T180000
+DTEND;TZID=Europe/Madrid:20260921T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:04ec174d-0564-43b7-8f9a-9e5ab8a7c1b6@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260922T180000
+DTEND;TZID=Europe/Madrid:20260922T184000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+END:VEVENT
+BEGIN:VEVENT
+UID:057f811b-3ecd-4da0-b3a9-2dd02180f7c7@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260922T210000
+DTEND;TZID=Europe/Madrid:20260922T221500
+SUMMARY:Desarrollo - Rendimiento Angular
+DESCRIPTION:Revisar change detection\, OnPush\, signals\, @for\, lazy loading y memoizacion. Aplicar 2 mejoras a un ejemplo. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:92b38599-dacd-44d7-8d5e-ac1defa238df@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260923T210000
+DTEND;TZID=Europe/Madrid:20260923T221500
+SUMMARY:Desarrollo - Accesibilidad
+DESCRIPTION:Auditar teclado\, foco\, labels\, roles\, contraste y mensajes de error. Corregir los problemas encontrados. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:3044e1ea-d18f-4365-99b9-cd848ed0befc@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260924T180000
+DTEND;TZID=Europe/Madrid:20260924T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:de391225-dc62-4979-a96e-ec67592c6448@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260925T070000
+DTEND;TZID=Europe/Madrid:20260925T074000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+END:VEVENT
+BEGIN:VEVENT
+UID:8bbf3fe7-afde-4206-85b5-b13873fb0626@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260925T210000
+DTEND;TZID=Europe/Madrid:20260925T221500
+SUMMARY:Desarrollo - Angular avanzado
+DESCRIPTION:Implementar una pequena feature con standalone components\, signals/RxJS y separacion clara entre UI\, dominio y datos. Documentar 3 decisiones tecnicas. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:5da37fba-4849-43aa-8c9a-18bd0c9d5d98@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260927T200000
+DTEND;TZID=Europe/Madrid:20260927T211500
+SUMMARY:Desarrollo - TypeScript avanzado
+DESCRIPTION:Practicar generics\, constraints\, Pick\, Omit\, Partial\, Record\, discriminated unions y type narrowing. Crear 3 ejemplos reutilizables. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:18521d58-3903-4b5d-b166-e9ff622681be@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260928T180000
+DTEND;TZID=Europe/Madrid:20260928T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:eee79a4b-a51b-4d91-8202-2be96409264c@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260929T180000
+DTEND;TZID=Europe/Madrid:20260929T184000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+END:VEVENT
+BEGIN:VEVENT
+UID:eed33359-49de-4f0c-90d0-99f93041c7cf@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260929T210000
+DTEND;TZID=Europe/Madrid:20260929T221500
+SUMMARY:Desarrollo - Lit y Web Components
+DESCRIPTION:Construir un componente Lit reutilizable con propiedades\, estado\, CustomEvent\, slots y Shadow DOM. Compararlo con Angular. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:607b65e1-ec99-4c7e-9711-d9d2ce5534bb@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260930T210000
+DTEND;TZID=Europe/Madrid:20260930T221500
+SUMMARY:Desarrollo - JavaScript asincrono
+DESCRIPTION:Practicar event loop\, microtasks\, macrotasks\, Promise\, async/await\, errores y concurrencia. Resolver ejercicios y explicar cada resultado. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:3b908828-676b-4a18-87e2-6219bb8c2fa0@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261001T180000
+DTEND;TZID=Europe/Madrid:20261001T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:bd5ade14-2b96-4149-9d16-5500909cf384@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261002T070000
+DTEND;TZID=Europe/Madrid:20261002T074000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+END:VEVENT
+BEGIN:VEVENT
+UID:91b75440-fa4e-4111-bd1a-90c04f27c592@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261002T210000
+DTEND;TZID=Europe/Madrid:20261002T221500
+SUMMARY:Desarrollo - RxJS
+DESCRIPTION:Construir un flujo realista de busqueda con debounceTime\, distinctUntilChanged\, switchMap\, catchError y finalize. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:3ae630fd-704d-468f-902d-08cb4291cfdf@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261004T200000
+DTEND;TZID=Europe/Madrid:20261004T211500
+SUMMARY:Desarrollo - Testing frontend
+DESCRIPTION:Escribir tests de componente o servicio cubriendo happy path\, errores y casos limite. Revisar mantenibilidad. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:c14c37cc-359f-44f7-b082-a5367f45b4e5@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261005T180000
+DTEND;TZID=Europe/Madrid:20261005T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:7ea69e84-acb3-4835-8024-ac71876bdc6e@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261006T180000
+DTEND;TZID=Europe/Madrid:20261006T184000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+END:VEVENT
+BEGIN:VEVENT
+UID:d13d6731-e6c2-41ca-a0eb-05d08098df9f@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261006T210000
+DTEND;TZID=Europe/Madrid:20261006T221500
+SUMMARY:Desarrollo - Node y arquitectura
+DESCRIPTION:Implementar un endpoint con validacion\, controller\, use case\, repository y manejo de errores. Escribir pruebas basicas. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:c7ea4f46-1bcd-4a61-b9d3-acc4f4d6ba4b@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261007T210000
+DTEND;TZID=Europe/Madrid:20261007T221500
+SUMMARY:Desarrollo - Arquitectura frontend
+DESCRIPTION:Disenar una pequena aplicacion: componentes\, dominio\, estado\, API y persistencia. Justificar fronteras y evitar sobrearquitectura. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:1dad0688-fc9f-45a8-953c-2b049b271b51@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261008T180000
+DTEND;TZID=Europe/Madrid:20261008T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:d06a1c04-4501-4ec8-8af9-a69b9130904d@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261009T070000
+DTEND;TZID=Europe/Madrid:20261009T074000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+END:VEVENT
+BEGIN:VEVENT
+UID:5382ff17-ffdb-43e3-bb1e-ca18ccb0cd4b@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261009T210000
+DTEND;TZID=Europe/Madrid:20261009T221500
+SUMMARY:Desarrollo - Gym Tracker Pro
+DESCRIPTION:Implementar una pieza pequena y vertical del proyecto: UI\, dominio y datos. Priorizar una funcionalidad terminada. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:c24f6bef-e1dc-45c0-8f4f-47c9d22f767f@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261011T200000
+DTEND;TZID=Europe/Madrid:20261011T211500
+SUMMARY:Desarrollo - Entrevista tecnica JS/TS
+DESCRIPTION:Responder preguntas de closures\, this\, prototipos\, event loop\, generics y type narrowing. Implementar 2 ejercicios sin consultar soluciones. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:26d493c5-25d7-4bfd-9f33-8f9c9f0d0302@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261012T180000
+DTEND;TZID=Europe/Madrid:20261012T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:e19cf8ed-dc79-46c1-a34c-f4aa90882dc8@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261013T180000
+DTEND;TZID=Europe/Madrid:20261013T184000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+END:VEVENT
+BEGIN:VEVENT
+UID:306ff33e-2e1c-4d97-9ed8-41f0fb99e421@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261013T210000
+DTEND;TZID=Europe/Madrid:20261013T221500
+SUMMARY:Desarrollo - Rendimiento Angular
+DESCRIPTION:Revisar change detection\, OnPush\, signals\, @for\, lazy loading y memoizacion. Aplicar 2 mejoras a un ejemplo. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:8adaf88f-6977-4bdc-9812-d67ca5247b7a@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261014T210000
+DTEND;TZID=Europe/Madrid:20261014T221500
+SUMMARY:Desarrollo - Accesibilidad
+DESCRIPTION:Auditar teclado\, foco\, labels\, roles\, contraste y mensajes de error. Corregir los problemas encontrados. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:f56c2e6f-4db8-4617-b142-ff4fac8f8ff9@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261015T180000
+DTEND;TZID=Europe/Madrid:20261015T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:10bd9774-776d-451b-a6d6-7d6dd103fbdd@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261016T070000
+DTEND;TZID=Europe/Madrid:20261016T074000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+END:VEVENT
+BEGIN:VEVENT
+UID:637b2692-bce0-45a3-b833-64fa8e5a117b@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261016T210000
+DTEND;TZID=Europe/Madrid:20261016T221500
+SUMMARY:Desarrollo - Angular avanzado
+DESCRIPTION:Implementar una pequena feature con standalone components\, signals/RxJS y separacion clara entre UI\, dominio y datos. Documentar 3 decisiones tecnicas. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:a14f8c00-bf03-4ae2-858e-4b0f372cb0fa@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261018T200000
+DTEND;TZID=Europe/Madrid:20261018T211500
+SUMMARY:Desarrollo - TypeScript avanzado
+DESCRIPTION:Practicar generics\, constraints\, Pick\, Omit\, Partial\, Record\, discriminated unions y type narrowing. Crear 3 ejemplos reutilizables. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:28d62d00-8d33-406d-b7ad-4b941870397a@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261019T180000
+DTEND;TZID=Europe/Madrid:20261019T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:5e4f6bc1-e942-43ea-96f4-76ec62567c89@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261020T180000
+DTEND;TZID=Europe/Madrid:20261020T184000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+END:VEVENT
+BEGIN:VEVENT
+UID:e39e39b3-ae47-4883-904b-a41770762f1b@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261020T210000
+DTEND;TZID=Europe/Madrid:20261020T221500
+SUMMARY:Desarrollo - Lit y Web Components
+DESCRIPTION:Construir un componente Lit reutilizable con propiedades\, estado\, CustomEvent\, slots y Shadow DOM. Compararlo con Angular. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:70feb5ef-1beb-4b56-9f9c-fffae1d04117@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261021T210000
+DTEND;TZID=Europe/Madrid:20261021T221500
+SUMMARY:Desarrollo - JavaScript asincrono
+DESCRIPTION:Practicar event loop\, microtasks\, macrotasks\, Promise\, async/await\, errores y concurrencia. Resolver ejercicios y explicar cada resultado. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:46dcea4e-e665-4d57-bebd-b4b7963e26e0@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261022T180000
+DTEND;TZID=Europe/Madrid:20261022T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:668cf422-b443-45d0-954d-13ddcafc6114@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261023T070000
+DTEND;TZID=Europe/Madrid:20261023T074000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+END:VEVENT
+BEGIN:VEVENT
+UID:18df0aea-09e0-4201-b77e-e13ba2e056a0@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261023T210000
+DTEND;TZID=Europe/Madrid:20261023T221500
+SUMMARY:Desarrollo - RxJS
+DESCRIPTION:Construir un flujo realista de busqueda con debounceTime\, distinctUntilChanged\, switchMap\, catchError y finalize. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:eac3b17a-3004-4037-9e28-4690e74713a9@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261025T200000
+DTEND;TZID=Europe/Madrid:20261025T211500
+SUMMARY:Desarrollo - Testing frontend
+DESCRIPTION:Escribir tests de componente o servicio cubriendo happy path\, errores y casos limite. Revisar mantenibilidad. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:96e69cc5-abd1-404b-8a35-d7e51f8aad49@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261026T180000
+DTEND;TZID=Europe/Madrid:20261026T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:d9ffa82c-6f4f-40fb-8d4e-0b63f553b747@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261027T180000
+DTEND;TZID=Europe/Madrid:20261027T184000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+END:VEVENT
+BEGIN:VEVENT
+UID:f8c492e6-d197-4fa7-b8dc-18b9cae4ef85@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261027T210000
+DTEND;TZID=Europe/Madrid:20261027T221500
+SUMMARY:Desarrollo - Node y arquitectura
+DESCRIPTION:Implementar un endpoint con validacion\, controller\, use case\, repository y manejo de errores. Escribir pruebas basicas. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:7008f5bf-1d32-4121-87dc-1c13374d8b14@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261028T210000
+DTEND;TZID=Europe/Madrid:20261028T221500
+SUMMARY:Desarrollo - Arquitectura frontend
+DESCRIPTION:Disenar una pequena aplicacion: componentes\, dominio\, estado\, API y persistencia. Justificar fronteras y evitar sobrearquitectura. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:459994c6-6487-4c06-bd13-397c54cf0d8f@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261029T180000
+DTEND;TZID=Europe/Madrid:20261029T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:0f492aac-c00c-476a-a171-c876c7ec69a6@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261030T070000
+DTEND;TZID=Europe/Madrid:20261030T074000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+END:VEVENT
+BEGIN:VEVENT
+UID:6b930b16-880b-40f3-82f3-500087970691@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261030T210000
+DTEND;TZID=Europe/Madrid:20261030T221500
+SUMMARY:Desarrollo - Gym Tracker Pro
+DESCRIPTION:Implementar una pieza pequena y vertical del proyecto: UI\, dominio y datos. Priorizar una funcionalidad terminada. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:933bda0d-9a93-4957-9d01-cae54afec29e@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261101T200000
+DTEND;TZID=Europe/Madrid:20261101T211500
+SUMMARY:Desarrollo - Entrevista tecnica JS/TS
+DESCRIPTION:Responder preguntas de closures\, this\, prototipos\, event loop\, generics y type narrowing. Implementar 2 ejercicios sin consultar soluciones. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:8be45d33-f36e-4fee-a293-b8caf32950c6@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261102T180000
+DTEND;TZID=Europe/Madrid:20261102T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:850f06c2-c75f-4093-a7da-0152ba5159a6@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261103T180000
+DTEND;TZID=Europe/Madrid:20261103T184000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+END:VEVENT
+BEGIN:VEVENT
+UID:38fe181b-1bc9-472b-8ba6-e540bdb83155@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261103T210000
+DTEND;TZID=Europe/Madrid:20261103T221500
+SUMMARY:Desarrollo - Rendimiento Angular
+DESCRIPTION:Revisar change detection\, OnPush\, signals\, @for\, lazy loading y memoizacion. Aplicar 2 mejoras a un ejemplo. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:7ba3cc7c-1d7b-4ff0-8d74-ba8119d90d4a@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261104T210000
+DTEND;TZID=Europe/Madrid:20261104T221500
+SUMMARY:Desarrollo - Accesibilidad
+DESCRIPTION:Auditar teclado\, foco\, labels\, roles\, contraste y mensajes de error. Corregir los problemas encontrados. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:9dd1c82e-47c9-4bf7-a7d3-261cba445135@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261105T180000
+DTEND;TZID=Europe/Madrid:20261105T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:0af9f881-b76a-495e-ab92-56eb330cb55a@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261106T070000
+DTEND;TZID=Europe/Madrid:20261106T074000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+END:VEVENT
+BEGIN:VEVENT
+UID:fc1f7dd8-764e-4d07-a8a9-5a311c378e61@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261106T210000
+DTEND;TZID=Europe/Madrid:20261106T221500
+SUMMARY:Desarrollo - Angular avanzado
+DESCRIPTION:Implementar una pequena feature con standalone components\, signals/RxJS y separacion clara entre UI\, dominio y datos. Documentar 3 decisiones tecnicas. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:587e696e-8e69-4d86-b709-29c8f7cd5bc0@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261108T200000
+DTEND;TZID=Europe/Madrid:20261108T211500
+SUMMARY:Desarrollo - TypeScript avanzado
+DESCRIPTION:Practicar generics\, constraints\, Pick\, Omit\, Partial\, Record\, discriminated unions y type narrowing. Crear 3 ejemplos reutilizables. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:9e9ac837-ac71-4f99-97fc-9936feb2b602@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261109T180000
+DTEND;TZID=Europe/Madrid:20261109T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:12d6527e-add2-497e-aad0-8f9ab0abc039@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261110T180000
+DTEND;TZID=Europe/Madrid:20261110T184000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+END:VEVENT
+BEGIN:VEVENT
+UID:31131bff-0029-44af-8f84-06add03dcf2a@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261110T210000
+DTEND;TZID=Europe/Madrid:20261110T221500
+SUMMARY:Desarrollo - Lit y Web Components
+DESCRIPTION:Construir un componente Lit reutilizable con propiedades\, estado\, CustomEvent\, slots y Shadow DOM. Compararlo con Angular. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:35839a10-44cc-43b7-a2d5-d432d6a9a11d@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261111T210000
+DTEND;TZID=Europe/Madrid:20261111T221500
+SUMMARY:Desarrollo - JavaScript asincrono
+DESCRIPTION:Practicar event loop\, microtasks\, macrotasks\, Promise\, async/await\, errores y concurrencia. Resolver ejercicios y explicar cada resultado. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:d1a2cf29-8434-4add-b815-313ac09faf76@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261112T180000
+DTEND;TZID=Europe/Madrid:20261112T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:fad3b7f8-d4c9-49bc-afcc-0709cd3a7808@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261113T070000
+DTEND;TZID=Europe/Madrid:20261113T074000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+END:VEVENT
+BEGIN:VEVENT
+UID:88e86691-2b71-4608-8e84-c59febccf698@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261113T210000
+DTEND;TZID=Europe/Madrid:20261113T221500
+SUMMARY:Desarrollo - RxJS
+DESCRIPTION:Construir un flujo realista de busqueda con debounceTime\, distinctUntilChanged\, switchMap\, catchError y finalize. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:2ef2bb9f-3053-42e5-a1aa-4b1fe9fbe9b7@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261115T200000
+DTEND;TZID=Europe/Madrid:20261115T211500
+SUMMARY:Desarrollo - Testing frontend
+DESCRIPTION:Escribir tests de componente o servicio cubriendo happy path\, errores y casos limite. Revisar mantenibilidad. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:80036c69-2c9c-417a-9794-e50579688519@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261116T180000
+DTEND;TZID=Europe/Madrid:20261116T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:eaa29fa7-00b6-4999-bb11-538be8a304fd@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261117T180000
+DTEND;TZID=Europe/Madrid:20261117T184000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+END:VEVENT
+BEGIN:VEVENT
+UID:22a9922c-97c7-4f06-aa75-14a6c4b953bf@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261117T210000
+DTEND;TZID=Europe/Madrid:20261117T221500
+SUMMARY:Desarrollo - Node y arquitectura
+DESCRIPTION:Implementar un endpoint con validacion\, controller\, use case\, repository y manejo de errores. Escribir pruebas basicas. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:af60c829-b455-4288-a883-d97bf78f8cff@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261118T210000
+DTEND;TZID=Europe/Madrid:20261118T221500
+SUMMARY:Desarrollo - Arquitectura frontend
+DESCRIPTION:Disenar una pequena aplicacion: componentes\, dominio\, estado\, API y persistencia. Justificar fronteras y evitar sobrearquitectura. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:81ad1dc5-db24-4af7-8e52-71b0d6eb0a17@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261119T180000
+DTEND;TZID=Europe/Madrid:20261119T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:b0aac82c-4e6f-4a1b-939a-9f1dc8e7b2d8@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261120T070000
+DTEND;TZID=Europe/Madrid:20261120T074000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+END:VEVENT
+BEGIN:VEVENT
+UID:da419b2a-9003-40c3-8641-90d15ccbc9b1@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261120T210000
+DTEND;TZID=Europe/Madrid:20261120T221500
+SUMMARY:Desarrollo - Gym Tracker Pro
+DESCRIPTION:Implementar una pieza pequena y vertical del proyecto: UI\, dominio y datos. Priorizar una funcionalidad terminada. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:fa8b69f1-b0b9-4b47-a926-9be291d4930c@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261122T200000
+DTEND;TZID=Europe/Madrid:20261122T211500
+SUMMARY:Desarrollo - Entrevista tecnica JS/TS
+DESCRIPTION:Responder preguntas de closures\, this\, prototipos\, event loop\, generics y type narrowing. Implementar 2 ejercicios sin consultar soluciones. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:eb24f1b9-b2c0-4054-89be-976347c47dbd@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261123T180000
+DTEND;TZID=Europe/Madrid:20261123T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:abce9f23-b3b2-47b2-ba9d-8294ce60b655@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261124T180000
+DTEND;TZID=Europe/Madrid:20261124T184000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+END:VEVENT
+BEGIN:VEVENT
+UID:f2b7575f-a9af-422a-9da3-8d1af628e6cb@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261124T210000
+DTEND;TZID=Europe/Madrid:20261124T221500
+SUMMARY:Desarrollo - Rendimiento Angular
+DESCRIPTION:Revisar change detection\, OnPush\, signals\, @for\, lazy loading y memoizacion. Aplicar 2 mejoras a un ejemplo. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:efccd81c-38fa-43e4-960f-03b16dc26b6e@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261125T210000
+DTEND;TZID=Europe/Madrid:20261125T221500
+SUMMARY:Desarrollo - Accesibilidad
+DESCRIPTION:Auditar teclado\, foco\, labels\, roles\, contraste y mensajes de error. Corregir los problemas encontrados. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:174ce864-b1d8-4312-8033-f8fc4574d1ae@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261126T180000
+DTEND;TZID=Europe/Madrid:20261126T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:ec0f2428-7416-4495-a5b8-5f6b20eb07cf@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261127T070000
+DTEND;TZID=Europe/Madrid:20261127T074000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+END:VEVENT
+BEGIN:VEVENT
+UID:17114f53-8248-408e-8538-c6df171528f3@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261127T210000
+DTEND;TZID=Europe/Madrid:20261127T221500
+SUMMARY:Desarrollo - Angular avanzado
+DESCRIPTION:Implementar una pequena feature con standalone components\, signals/RxJS y separacion clara entre UI\, dominio y datos. Documentar 3 decisiones tecnicas. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:7ea41fac-d89e-4a58-865c-2fdc30fe3776@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261129T200000
+DTEND;TZID=Europe/Madrid:20261129T211500
+SUMMARY:Desarrollo - TypeScript avanzado
+DESCRIPTION:Practicar generics\, constraints\, Pick\, Omit\, Partial\, Record\, discriminated unions y type narrowing. Crear 3 ejemplos reutilizables. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:76590c94-1a81-45e3-9698-aff9e36603ca@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261130T180000
+DTEND;TZID=Europe/Madrid:20261130T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:7224bca7-7683-40cc-8917-9b5f91af90c0@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261201T180000
+DTEND;TZID=Europe/Madrid:20261201T184000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+END:VEVENT
+BEGIN:VEVENT
+UID:bc1e9630-f2dc-4b78-8556-28c4cc8d0cc2@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261201T210000
+DTEND;TZID=Europe/Madrid:20261201T221500
+SUMMARY:Desarrollo - Lit y Web Components
+DESCRIPTION:Construir un componente Lit reutilizable con propiedades\, estado\, CustomEvent\, slots y Shadow DOM. Compararlo con Angular. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:3d34a059-3e40-458a-b102-6ff924528adc@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261202T210000
+DTEND;TZID=Europe/Madrid:20261202T221500
+SUMMARY:Desarrollo - JavaScript asincrono
+DESCRIPTION:Practicar event loop\, microtasks\, macrotasks\, Promise\, async/await\, errores y concurrencia. Resolver ejercicios y explicar cada resultado. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:c4a58942-34dd-40e2-aa63-f96eee23d135@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261203T180000
+DTEND;TZID=Europe/Madrid:20261203T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:44cf242d-e67e-4283-a744-924483d706d3@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261204T070000
+DTEND;TZID=Europe/Madrid:20261204T074000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+END:VEVENT
+BEGIN:VEVENT
+UID:bf0e48d4-3f2f-4a7e-bf9a-ea5c02629403@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261204T210000
+DTEND;TZID=Europe/Madrid:20261204T221500
+SUMMARY:Desarrollo - RxJS
+DESCRIPTION:Construir un flujo realista de busqueda con debounceTime\, distinctUntilChanged\, switchMap\, catchError y finalize. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:09a13b09-784b-4595-aa09-aeee9a190aee@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261206T200000
+DTEND;TZID=Europe/Madrid:20261206T211500
+SUMMARY:Desarrollo - Testing frontend
+DESCRIPTION:Escribir tests de componente o servicio cubriendo happy path\, errores y casos limite. Revisar mantenibilidad. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:02279846-2e4a-49cd-ae0a-f583d73dadfc@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261207T180000
+DTEND;TZID=Europe/Madrid:20261207T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:c8bf165e-3f53-477c-bf8b-f9e651247b1e@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261208T180000
+DTEND;TZID=Europe/Madrid:20261208T184000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+END:VEVENT
+BEGIN:VEVENT
+UID:f1e92e7f-052d-4ecd-9b54-1feebea13bdf@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261208T210000
+DTEND;TZID=Europe/Madrid:20261208T221500
+SUMMARY:Desarrollo - Node y arquitectura
+DESCRIPTION:Implementar un endpoint con validacion\, controller\, use case\, repository y manejo de errores. Escribir pruebas basicas. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:128f74fd-e008-4a26-a138-5aaad2821ebe@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261209T210000
+DTEND;TZID=Europe/Madrid:20261209T221500
+SUMMARY:Desarrollo - Arquitectura frontend
+DESCRIPTION:Disenar una pequena aplicacion: componentes\, dominio\, estado\, API y persistencia. Justificar fronteras y evitar sobrearquitectura. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:8992c549-8581-461c-bbf5-9ef08054e3ac@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261210T180000
+DTEND;TZID=Europe/Madrid:20261210T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:e163143c-c7c5-4ae6-b6f7-a4417aa4b7e4@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261211T070000
+DTEND;TZID=Europe/Madrid:20261211T074000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+END:VEVENT
+BEGIN:VEVENT
+UID:3b3dd558-8827-4b5f-b592-436a401c15ab@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261211T210000
+DTEND;TZID=Europe/Madrid:20261211T221500
+SUMMARY:Desarrollo - Gym Tracker Pro
+DESCRIPTION:Implementar una pieza pequena y vertical del proyecto: UI\, dominio y datos. Priorizar una funcionalidad terminada. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:9a6449c8-4844-4cf9-bc9c-83a05de273c6@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261213T200000
+DTEND;TZID=Europe/Madrid:20261213T211500
+SUMMARY:Desarrollo - Entrevista tecnica JS/TS
+DESCRIPTION:Responder preguntas de closures\, this\, prototipos\, event loop\, generics y type narrowing. Implementar 2 ejercicios sin consultar soluciones. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:b3f203a6-d8bf-40b0-b1f2-5236e9ab6256@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261214T180000
+DTEND;TZID=Europe/Madrid:20261214T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:3e896a30-25c6-4fcd-8a5b-fb4c1b6e3b79@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261215T180000
+DTEND;TZID=Europe/Madrid:20261215T184000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+END:VEVENT
+BEGIN:VEVENT
+UID:c97eb89f-2261-4563-8d76-62d66b307c26@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261215T210000
+DTEND;TZID=Europe/Madrid:20261215T221500
+SUMMARY:Desarrollo - Rendimiento Angular
+DESCRIPTION:Revisar change detection\, OnPush\, signals\, @for\, lazy loading y memoizacion. Aplicar 2 mejoras a un ejemplo. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:50e435fb-7de9-446e-9f1c-deb5255ed247@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261216T210000
+DTEND;TZID=Europe/Madrid:20261216T221500
+SUMMARY:Desarrollo - Accesibilidad
+DESCRIPTION:Auditar teclado\, foco\, labels\, roles\, contraste y mensajes de error. Corregir los problemas encontrados. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:aa94a1a6-9df1-44ea-9c9a-a351267940de@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261217T180000
+DTEND;TZID=Europe/Madrid:20261217T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:c8c08080-4154-40f9-8e87-b105206b8548@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261218T070000
+DTEND;TZID=Europe/Madrid:20261218T074000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+END:VEVENT
+BEGIN:VEVENT
+UID:03470a3d-7164-43f9-b7f0-1cfcd4b6c786@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261218T210000
+DTEND;TZID=Europe/Madrid:20261218T221500
+SUMMARY:Desarrollo - Angular avanzado
+DESCRIPTION:Implementar una pequena feature con standalone components\, signals/RxJS y separacion clara entre UI\, dominio y datos. Documentar 3 decisiones tecnicas. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:be0e7b9a-e4e5-4637-b327-3af160a302f0@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261220T200000
+DTEND;TZID=Europe/Madrid:20261220T211500
+SUMMARY:Desarrollo - TypeScript avanzado
+DESCRIPTION:Practicar generics\, constraints\, Pick\, Omit\, Partial\, Record\, discriminated unions y type narrowing. Crear 3 ejemplos reutilizables. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:2cd1de2f-d515-45f6-ac2c-072a8b0b72be@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261221T180000
+DTEND;TZID=Europe/Madrid:20261221T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:ffa52840-f0c2-40fc-a434-ee0465208b17@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261222T180000
+DTEND;TZID=Europe/Madrid:20261222T184000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+END:VEVENT
+BEGIN:VEVENT
+UID:82287f75-56e9-492e-92c9-fb23f3f5c946@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261222T210000
+DTEND;TZID=Europe/Madrid:20261222T221500
+SUMMARY:Desarrollo - Lit y Web Components
+DESCRIPTION:Construir un componente Lit reutilizable con propiedades\, estado\, CustomEvent\, slots y Shadow DOM. Compararlo con Angular. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:69b24809-2d78-4629-8cda-13572e0310d8@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261223T210000
+DTEND;TZID=Europe/Madrid:20261223T221500
+SUMMARY:Desarrollo - JavaScript asincrono
+DESCRIPTION:Practicar event loop\, microtasks\, macrotasks\, Promise\, async/await\, errores y concurrencia. Resolver ejercicios y explicar cada resultado. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:6c454470-9fa2-47a9-b0b9-7bee3a3cf079@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261224T180000
+DTEND;TZID=Europe/Madrid:20261224T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:442da7c2-b2a7-4318-9046-7020ed0489e9@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261225T070000
+DTEND;TZID=Europe/Madrid:20261225T074000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+END:VEVENT
+BEGIN:VEVENT
+UID:e6b6087f-bcee-45fe-9dff-2463bb20112a@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261225T210000
+DTEND;TZID=Europe/Madrid:20261225T221500
+SUMMARY:Desarrollo - RxJS
+DESCRIPTION:Construir un flujo realista de busqueda con debounceTime\, distinctUntilChanged\, switchMap\, catchError y finalize. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:52f0fffc-f4a3-45ac-9bd6-338d0198b612@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261227T200000
+DTEND;TZID=Europe/Madrid:20261227T211500
+SUMMARY:Desarrollo - Testing frontend
+DESCRIPTION:Escribir tests de componente o servicio cubriendo happy path\, errores y casos limite. Revisar mantenibilidad. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:965ceb2d-7851-44b4-81c8-78aafa39600f@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261228T180000
+DTEND;TZID=Europe/Madrid:20261228T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:0a4b1bc5-58de-4cd8-9743-34ea66926538@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261229T180000
+DTEND;TZID=Europe/Madrid:20261229T184000
+SUMMARY:Fuerza - Gimnasio
+DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+END:VEVENT
+BEGIN:VEVENT
+UID:ef8a622b-2453-4c35-99be-12954c140d60@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261229T210000
+DTEND;TZID=Europe/Madrid:20261229T221500
+SUMMARY:Desarrollo - Node y arquitectura
+DESCRIPTION:Implementar un endpoint con validacion\, controller\, use case\, repository y manejo de errores. Escribir pruebas basicas. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:9a91c344-4737-46ea-bf6e-2e417bf7df66@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261230T210000
+DTEND;TZID=Europe/Madrid:20261230T221500
+SUMMARY:Desarrollo - Arquitectura frontend
+DESCRIPTION:Disenar una pequena aplicacion: componentes\, dominio\, estado\, API y persistencia. Justificar fronteras y evitar sobrearquitectura. Duracion: 75 min. Empezar directamente con la tarea.
+END:VEVENT
+BEGIN:VEVENT
+UID:96d1bcbb-ae3e-4246-bbfc-388a4e17cfee@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20261231T180000
+DTEND;TZID=Europe/Madrid:20261231T191500
+SUMMARY:CrossFit
+DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+END:VEVENT
+BEGIN:VEVENT
+UID:kisters-interview@luispa-calendar
+DTSTAMP:20260817T194000Z
+DTSTART;TZID=Europe/Madrid:20260902T100000
+DTEND;TZID=Europe/Madrid:20260902T110000
+SUMMARY:Entrevista - KISTERS AG
+DESCRIPTION:Entrevista inicial. Repaso recomendado: LitElement\, Web Components\, Angular\, TypeScript y experiencia profesional.
+LOCATION:Virtual
+END:VEVENT
+END:VCALENDAR
