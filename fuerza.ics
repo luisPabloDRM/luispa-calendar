@@ -1,25 +1,320 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Luispa//Fuerza 2026//ES
+PRODID:-//Luispa//Plan fuerza 2026//ES
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Fuerza - Luispa
+X-WR-CALNAME:Plan Luispa — Fuerza
+X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-UID:fuerza-a@luispa-calendar
-DTSTAMP:20260817T203500Z
-DTSTART;TZID=Europe/Madrid:20260818T180000
-DTEND;TZID=Europe/Madrid:20260818T184000
-SUMMARY:Fuerza A - Full Body
-DESCRIPTION:OBJETIVO: fuerza tren superior + cuadriceps + cadena posterior + brazos.\n\n0-5 min: calentamiento general + 2 series de aproximacion.\n5-17 min: SENTADILLA TRASERA 3x5, RPE 7-8, descanso 90 s.\n17-29 min: PRESS BANCA 4x5, RPE 7-8, descanso 90 s.\n29-36 min: REMO CON PECHO APOYADO 3x8 + PESO MUERTO RUMANO 2x8, alternando.\n36-40 min: CURL DE BICEPS 2x10 + EXTENSION DE TRICEPS 2x10, alternando.\n\nPROGRESION: si completas todo con RPE <=8, suma 2,5 kg al press banca y 2,5-5 kg a sentadilla en la siguiente A. Si el CrossFit del lunes fue muy exigente de piernas, baja sentadilla a RPE 6-7.
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261229T235959Z
+UID:e436ac26-c458-4e7a-b12c-f679016390f8@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20260818T203000
+DTEND;TZID=Europe/Madrid:20260818T211000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Mantener técnica y progresión. Evitar convertir la sesión en cardio.
 END:VEVENT
 BEGIN:VEVENT
-UID:fuerza-b@luispa-calendar
-DTSTAMP:20260817T203500Z
+UID:994de75a-a340-43b0-a219-bbfd222ee757@luispa-plan
+DTSTAMP:20260817T201124Z
 DTSTART;TZID=Europe/Madrid:20260821T070000
 DTEND;TZID=Europe/Madrid:20260821T074000
-SUMMARY:Fuerza B - Full Body
-DESCRIPTION:OBJETIVO: cadena posterior + empuje vertical + tiron + gemelos + core.\n\n0-5 min: calentamiento + 2 series de aproximacion de peso muerto.\n5-17 min: PESO MUERTO 3x4, RPE 7-8, descanso 2 min.\n17-28 min: PRESS MILITAR 3x5 + DOMINADAS 3x5, alternando.\n28-35 min: HIP THRUST 2x8 + ZANCADA BULGARA 2x8 por pierna.\n35-40 min: ELEVACIONES DE GEMELO 2x12-15 + DEAD BUG 2x8 por lado.\n\nPROGRESION: si completas todo con RPE <=8, suma 2,5 kg al press militar y 5 kg al hip thrust; en peso muerto suma 2,5-5 kg. Si el CrossFit del jueves castigo mucho la espalda, usa jalon al pecho en vez de dominadas.
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261225T235959Z
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Sesión breve y enfocada. Registrar cargas/repeticiones para progresar.
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc86b2-e3c3-425a-804d-bdee6b2e3c92@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20260825T203000
+DTEND;TZID=Europe/Madrid:20260825T211000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Mantener técnica y progresión. Evitar convertir la sesión en cardio.
+END:VEVENT
+BEGIN:VEVENT
+UID:c1013c34-f4fe-4786-887e-d0867ce194fd@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20260828T070000
+DTEND;TZID=Europe/Madrid:20260828T074000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Sesión breve y enfocada. Registrar cargas/repeticiones para progresar.
+END:VEVENT
+BEGIN:VEVENT
+UID:8f38a4be-2163-4c0c-b93f-9edc3b624b03@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20260901T203000
+DTEND;TZID=Europe/Madrid:20260901T211000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Mantener técnica y progresión. Evitar convertir la sesión en cardio.
+END:VEVENT
+BEGIN:VEVENT
+UID:a9c28abb-3cb9-4a5f-8264-dfab38f38b5d@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20260904T070000
+DTEND;TZID=Europe/Madrid:20260904T074000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Sesión breve y enfocada. Registrar cargas/repeticiones para progresar.
+END:VEVENT
+BEGIN:VEVENT
+UID:8e223ebe-d1da-448f-9b80-b0a213ea2a4f@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20260908T203000
+DTEND;TZID=Europe/Madrid:20260908T211000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Mantener técnica y progresión. Evitar convertir la sesión en cardio.
+END:VEVENT
+BEGIN:VEVENT
+UID:3c4f1077-636b-412a-9cc2-37529fa02e23@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20260911T070000
+DTEND;TZID=Europe/Madrid:20260911T074000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Sesión breve y enfocada. Registrar cargas/repeticiones para progresar.
+END:VEVENT
+BEGIN:VEVENT
+UID:3e83783b-d0ec-48a6-a8b0-e3c643554d04@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20260915T203000
+DTEND;TZID=Europe/Madrid:20260915T211000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Mantener técnica y progresión. Evitar convertir la sesión en cardio.
+END:VEVENT
+BEGIN:VEVENT
+UID:c9664dfe-3f68-43b9-a8c2-a8f04c9a1aff@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20260918T070000
+DTEND;TZID=Europe/Madrid:20260918T074000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Sesión breve y enfocada. Registrar cargas/repeticiones para progresar.
+END:VEVENT
+BEGIN:VEVENT
+UID:f549d9db-79f8-44a6-af09-8ababf8864bb@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20260922T203000
+DTEND;TZID=Europe/Madrid:20260922T211000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Mantener técnica y progresión. Evitar convertir la sesión en cardio.
+END:VEVENT
+BEGIN:VEVENT
+UID:3c25efb5-d6d9-422e-8343-8cf63489ecfd@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20260925T070000
+DTEND;TZID=Europe/Madrid:20260925T074000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Sesión breve y enfocada. Registrar cargas/repeticiones para progresar.
+END:VEVENT
+BEGIN:VEVENT
+UID:6d473e15-a101-43d4-9a3b-db8619104254@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20260929T203000
+DTEND;TZID=Europe/Madrid:20260929T211000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Mantener técnica y progresión. Evitar convertir la sesión en cardio.
+END:VEVENT
+BEGIN:VEVENT
+UID:2db60794-42f2-48cd-9420-7486016c6993@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261002T070000
+DTEND;TZID=Europe/Madrid:20261002T074000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Sesión breve y enfocada. Registrar cargas/repeticiones para progresar.
+END:VEVENT
+BEGIN:VEVENT
+UID:45747362-e69a-4d3e-8fa4-b6bc2e13c6dd@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261006T203000
+DTEND;TZID=Europe/Madrid:20261006T211000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Mantener técnica y progresión. Evitar convertir la sesión en cardio.
+END:VEVENT
+BEGIN:VEVENT
+UID:acee1a1b-5c8c-40ef-8679-c194b20ded37@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261009T070000
+DTEND;TZID=Europe/Madrid:20261009T074000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Sesión breve y enfocada. Registrar cargas/repeticiones para progresar.
+END:VEVENT
+BEGIN:VEVENT
+UID:0b3c8a3a-4d39-461d-933b-878340270ee1@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261013T203000
+DTEND;TZID=Europe/Madrid:20261013T211000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Mantener técnica y progresión. Evitar convertir la sesión en cardio.
+END:VEVENT
+BEGIN:VEVENT
+UID:9b243dc2-7bb6-4499-a0df-3114a1ee5330@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261016T070000
+DTEND;TZID=Europe/Madrid:20261016T074000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Sesión breve y enfocada. Registrar cargas/repeticiones para progresar.
+END:VEVENT
+BEGIN:VEVENT
+UID:76069926-2294-4ebe-b403-ccc0215213fd@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261020T203000
+DTEND;TZID=Europe/Madrid:20261020T211000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Mantener técnica y progresión. Evitar convertir la sesión en cardio.
+END:VEVENT
+BEGIN:VEVENT
+UID:7fe10af5-1da1-465d-b6f4-80da1bf5560e@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261023T070000
+DTEND;TZID=Europe/Madrid:20261023T074000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Sesión breve y enfocada. Registrar cargas/repeticiones para progresar.
+END:VEVENT
+BEGIN:VEVENT
+UID:75871b92-fd6c-440c-9211-134ba702a80b@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261027T203000
+DTEND;TZID=Europe/Madrid:20261027T211000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Mantener técnica y progresión. Evitar convertir la sesión en cardio.
+END:VEVENT
+BEGIN:VEVENT
+UID:5f618a5f-fe3a-4b07-aa1c-743a80b02353@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261030T070000
+DTEND;TZID=Europe/Madrid:20261030T074000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Sesión breve y enfocada. Registrar cargas/repeticiones para progresar.
+END:VEVENT
+BEGIN:VEVENT
+UID:75a96b29-d3c1-4f86-9964-e2d52045b3b3@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261103T203000
+DTEND;TZID=Europe/Madrid:20261103T211000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Mantener técnica y progresión. Evitar convertir la sesión en cardio.
+END:VEVENT
+BEGIN:VEVENT
+UID:99b696cd-98b7-4ded-9f40-0a9818523c70@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261106T070000
+DTEND;TZID=Europe/Madrid:20261106T074000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Sesión breve y enfocada. Registrar cargas/repeticiones para progresar.
+END:VEVENT
+BEGIN:VEVENT
+UID:2d7003be-4534-4754-83a6-f323e3bc21ae@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261110T203000
+DTEND;TZID=Europe/Madrid:20261110T211000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Mantener técnica y progresión. Evitar convertir la sesión en cardio.
+END:VEVENT
+BEGIN:VEVENT
+UID:744b9b36-a797-4023-9926-1784ab55e86f@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261113T070000
+DTEND;TZID=Europe/Madrid:20261113T074000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Sesión breve y enfocada. Registrar cargas/repeticiones para progresar.
+END:VEVENT
+BEGIN:VEVENT
+UID:f72bae0f-0406-4f46-8c28-70af2d19d2d0@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261117T203000
+DTEND;TZID=Europe/Madrid:20261117T211000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Mantener técnica y progresión. Evitar convertir la sesión en cardio.
+END:VEVENT
+BEGIN:VEVENT
+UID:de27fc8a-cc8b-4502-bd2f-b1a8e9db2d7e@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261120T070000
+DTEND;TZID=Europe/Madrid:20261120T074000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Sesión breve y enfocada. Registrar cargas/repeticiones para progresar.
+END:VEVENT
+BEGIN:VEVENT
+UID:f7787caf-765d-464c-83b1-b2fe64edf5be@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261124T203000
+DTEND;TZID=Europe/Madrid:20261124T211000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Mantener técnica y progresión. Evitar convertir la sesión en cardio.
+END:VEVENT
+BEGIN:VEVENT
+UID:bffdc896-4eec-4ff8-906f-84d1f8ca073d@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261127T070000
+DTEND;TZID=Europe/Madrid:20261127T074000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Sesión breve y enfocada. Registrar cargas/repeticiones para progresar.
+END:VEVENT
+BEGIN:VEVENT
+UID:ec609b9a-c6d6-425f-8f11-1b6a8d01f4e5@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261201T203000
+DTEND;TZID=Europe/Madrid:20261201T211000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Mantener técnica y progresión. Evitar convertir la sesión en cardio.
+END:VEVENT
+BEGIN:VEVENT
+UID:2a4bb4d4-2cc3-4037-8492-3c0c99a2690a@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261204T070000
+DTEND;TZID=Europe/Madrid:20261204T074000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Sesión breve y enfocada. Registrar cargas/repeticiones para progresar.
+END:VEVENT
+BEGIN:VEVENT
+UID:ef6f86c1-d271-43be-b5aa-362889cbf929@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261208T203000
+DTEND;TZID=Europe/Madrid:20261208T211000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Mantener técnica y progresión. Evitar convertir la sesión en cardio.
+END:VEVENT
+BEGIN:VEVENT
+UID:52b56fa2-4c78-48cb-bcfd-a8d2b5f37820@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261211T070000
+DTEND;TZID=Europe/Madrid:20261211T074000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Sesión breve y enfocada. Registrar cargas/repeticiones para progresar.
+END:VEVENT
+BEGIN:VEVENT
+UID:51399fef-e2ea-44b3-8966-b8eb5ea7b346@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261215T203000
+DTEND;TZID=Europe/Madrid:20261215T211000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Mantener técnica y progresión. Evitar convertir la sesión en cardio.
+END:VEVENT
+BEGIN:VEVENT
+UID:e0a11b41-1051-423c-862e-b2b9025a517a@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261218T070000
+DTEND;TZID=Europe/Madrid:20261218T074000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Sesión breve y enfocada. Registrar cargas/repeticiones para progresar.
+END:VEVENT
+BEGIN:VEVENT
+UID:ce17b1c1-0d31-4a0d-be3d-668004c210cc@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261222T203000
+DTEND;TZID=Europe/Madrid:20261222T211000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Mantener técnica y progresión. Evitar convertir la sesión en cardio.
+END:VEVENT
+BEGIN:VEVENT
+UID:c000eafd-ed3b-4219-b768-99590d67279c@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261225T070000
+DTEND;TZID=Europe/Madrid:20261225T074000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Sesión breve y enfocada. Registrar cargas/repeticiones para progresar.
+END:VEVENT
+BEGIN:VEVENT
+UID:dc6cbef7-f66c-4f2c-91a0-ac21a34da2a3@luispa-plan
+DTSTAMP:20260817T201124Z
+DTSTART;TZID=Europe/Madrid:20261229T203000
+DTEND;TZID=Europe/Madrid:20261229T211000
+SUMMARY:💪 Fuerza — Gimnasio
+DESCRIPTION:40 min de fuerza. Mantener técnica y progresión. Evitar convertir la sesión en cardio.
 END:VEVENT
 END:VCALENDAR
