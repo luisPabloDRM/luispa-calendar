@@ -1,1272 +1,1259 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//OpenAI//Luispa Plan 2026//ES
+PRODID:-//Luispa//Plan definitivo 2026//ES
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Luispa - Entrenamiento y Desarrollo
+X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-UID:082c0086-f707-487d-a17d-f16332a29499@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260817T180000
-DTEND;TZID=Europe/Madrid:20260817T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+UID:e0e94d77ce98d513d81dacbbc9227808ccb065c0@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260825T203000
+DTEND;TZID=Europe/Madrid:20260825T211000
+SUMMARY:💪 Fuerza — Martes
+DESCRIPTION:40 min. 0-5' calentamiento + aproximaciones. 5-19' prensa 3x5-6 @ RPE 7\,\ndescanso 2'. 19-31' press banca 3x6 @ RPE 7\, 90s. 31-38' remo con pecho apoyado\n2x8-10 @ RPE 7. 38-40' dead bug. Si el WOD previo cargó mucho las piernas\,\nprensa 2x8 @ RPE 6-7.
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:2e5f304d-8b2c-4c1e-9eaa-f5451888e2c2@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260818T180000
-DTEND;TZID=Europe/Madrid:20260818T184000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
-END:VEVENT
-BEGIN:VEVENT
-UID:ba7c17ce-29c7-4833-b7a9-d4dd9e7d6307@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260818T210000
-DTEND;TZID=Europe/Madrid:20260818T221500
-SUMMARY:Entrevista - LitElement desde cero
-DESCRIPTION:Web Components: Custom Elements y Shadow DOM - 15 min. LitElement\, customElement\, property\, render y html - 20 min. Crear un componente sencillo - 30 min. Explicarlo comparandolo con Angular - 10 min. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:d78955df-800b-4911-b364-c5a2380b4d38@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260819T210000
-DTEND;TZID=Europe/Madrid:20260819T221500
-SUMMARY:Entrevista - Web Components en profundidad
-DESCRIPTION:Custom Elements y ciclo de vida - 15 min. Shadow DOM y encapsulacion - 15 min. Slots y composicion - 15 min. Eventos y comunicacion - 15 min. Ventajas y desventajas frente a Angular - 15 min. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:00c9c46b-2762-475a-b32c-ffd8669f7021@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260820T180000
-DTEND;TZID=Europe/Madrid:20260820T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
-END:VEVENT
-BEGIN:VEVENT
-UID:9226c823-c1e7-4919-912b-6e2fa06e1bb7@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260821T070000
-DTEND;TZID=Europe/Madrid:20260821T074000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
-END:VEVENT
-BEGIN:VEVENT
-UID:f9acad49-3ce1-4575-a29d-6ae622d03c17@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260821T210000
-DTEND;TZID=Europe/Madrid:20260821T221500
-SUMMARY:Entrevista - Practica Lit
-DESCRIPTION:Crear user-card con propiedades\, estado\, CustomEvent\, slot y estilos encapsulados - 50 min. Explicarlo como entrevista - 15 min. Anotar dudas - 10 min. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:d406a75e-1517-479e-8f5c-580a88665758@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260823T200000
-DTEND;TZID=Europe/Madrid:20260823T211500
-SUMMARY:Entrevista - Mini proyecto Lit
-DESCRIPTION:Construir un user-card completo con propiedades\, estado\, CustomEvent\, slot y Shadow DOM - 55 min. Explicarlo sin mirar codigo - 10 min. Anotar puntos debiles - 10 min. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:6981821c-e25c-44b6-9f58-5f0e4aca1eec@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260824T180000
-DTEND;TZID=Europe/Madrid:20260824T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
-END:VEVENT
-BEGIN:VEVENT
-UID:9978a406-d749-4447-a2b9-d816c9af85da@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260825T180000
-DTEND;TZID=Europe/Madrid:20260825T184000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
-END:VEVENT
-BEGIN:VEVENT
-UID:5534dc71-8968-40c5-843e-aec07924262f@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:05eddce60a151854fdd24c9244af640a7c92815e@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260825T210000
 DTEND;TZID=Europe/Madrid:20260825T221500
-SUMMARY:Entrevista - Reactividad y lifecycle en Lit
-DESCRIPTION:property y state - 15 min. willUpdate\, updated y callbacks - 20 min. Crear componente con estado reactivo - 25 min. Cinco preguntas tecnicas en voz alta - 15 min. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🎯 Estudio — Lit: fundamentos para entrevista
+DESCRIPTION:10' Custom Elements y Shadow DOM. 15' Lit y modelo mental de componente.\n20' @property\, @state\, render y templates. 25' crear un <user-card> funcional.\n5' explicar Lit vs Angular. Resultado: componente funcionando + explicación de 3 min.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://lit.dev/docs/getting-started/\nhttps://lit.dev/docs/components/properties/\nhttps://lit.dev/docs/components/lifecycle/\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_templates_and_slots
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:816a549e-2074-4af9-a491-ddfb6f77beda@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:334bef221ec4aab8f23b9b22174a962d6d3225e5@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260826T210000
 DTEND;TZID=Europe/Madrid:20260826T221500
-SUMMARY:Entrevista - JavaScript y TypeScript
-DESCRIPTION:this y closures - 15 min. Promises\, async/await y event loop - 20 min. Interfaces\, types\, generics y utility types - 20 min. Type narrowing y errores - 10 min. Tres preguntas tecnicas - 10 min. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🎯 Estudio — Web Components en profundidad
+DESCRIPTION:15' Custom Elements. 15' Shadow DOM/encapsulación. 15' slots/composición.\n15' eventos y comunicación. 15' responder 5 preguntas de entrevista en voz alta.\nResultado: diagrama de arquitectura + respuestas.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_templates_and_slots
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:50073d2c-8217-41e3-a977-2c1ef3a07d4b@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260827T180000
-DTEND;TZID=Europe/Madrid:20260827T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+UID:f1be379465550e7c8ad2c646ef6b6ecce0a559ad@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260827T170000
+DTEND;TZID=Europe/Madrid:20260827T181500
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión excepcional de esta semana: jueves 17:00.\nAl terminar registra WOD\, movimientos\, cargas\, tiempo y limitante principal.\nNo hace falta modificar el calendario por el WOD.
+LOCATION:CrossFit
 END:VEVENT
 BEGIN:VEVENT
-UID:43ee13ba-dae0-4675-96b2-36615e88f6af@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:23eac88a99a0cb9de3f6cc61c0b0a4b9fdc6635f@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260828T070000
 DTEND;TZID=Europe/Madrid:20260828T074000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+SUMMARY:💪 Fuerza — Viernes
+DESCRIPTION:40 min. 0-5' calentamiento. 5-19' RDL 3x6 @ RPE 7\, 2'.\n19-31' press inclinado con mancuernas 3x8 @ RPE 7\, 90s.\n31-38' jalón/remo 2x8-10 + curl 2x10. 38-40' plancha.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit del miércoles/jueves tuvo mucho volumen de\ndeadlift\, clean/snatch\, swings\, sentadillas\, lunges\, hombros o agarre\, cambia el\npatrón coincidente por una variante menos fatigante. No entrenar al fallo.\nProgresión: RPE 7 como base\; sube carga solo con técnica sólida.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:b22b510e-84df-455b-82ec-31ac19f90a77@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:6d6178fc52c92ac92cad639f25824c2a88709c2c@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260828T210000
 DTEND;TZID=Europe/Madrid:20260828T221500
-SUMMARY:Entrevista - Experiencia profesional
-DESCRIPTION:Preparar respuestas sobre Duonex\, Angular\, TypeScript\, RxJS\, Node\, AdonisJS\, APIs y bases de datos. Preparar un problema tecnico dificil y explicar como lo resolviste. Preparar por que buscas un cambio y por que te interesa el puesto. Responder todo en voz alta. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🎯 Estudio — Migración Angular → Lit
+DESCRIPTION:15' decidir qué migrar y qué no. 20' estrategia incremental y convivencia\nAngular/Lit. 15' propiedades\, eventos y estado. 15' testing/build. 10' riesgos\,\nrollback y criterios de éxito. Resultado: propuesta de migración de 1 página + defensa oral.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://lit.dev/docs/getting-started/\nhttps://lit.dev/docs/components/properties/\nhttps://lit.dev/docs/components/lifecycle/\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_templates_and_slots\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:ba55195e-af26-4dbf-b551-b383f760688f@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:ca584e10aaa1913a7908df9556690f5b015a7ff1@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260830T100000
+DTEND;TZID=Europe/Madrid:20260830T113000
+SUMMARY:🚴 Bici
+DESCRIPTION:60-120' preferentemente Z2/ritmo conversacional. Salida libre.\nRegistrar duración\, distancia\, desnivel y sensaciones. Si la semana está cargada\,\n60' es suficiente.
+LOCATION:Bici
+END:VEVENT
+BEGIN:VEVENT
+UID:485424a5f2d60cbc154e9806cb66e670b99526d3@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260830T200000
 DTEND;TZID=Europe/Madrid:20260830T211500
-SUMMARY:Entrevista - Simulacion completa
-DESCRIPTION:Simulacion de 75 min: presentacion\, experiencia\, LitElement\, Web Components\, Angular vs Lit\, JavaScript/TypeScript\, problemas tecnicos\, motivacion y preguntas para la empresa. No estudiar teoria nueva: detectar puntos debiles. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🎯 Estudio — Simulación completa de entrevista
+DESCRIPTION:75' sin estudiar teoría durante la sesión. Presentación\, experiencia\,\nAngular/TypeScript/RxJS\, JavaScript\, Lit/Web Components\, migración\, arquitectura\,\ndebugging y preguntas a la empresa. Resultado: máximo 5 lagunas priorizadas.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://lit.dev/docs/getting-started/\nhttps://lit.dev/docs/components/properties/\nhttps://lit.dev/docs/components/lifecycle/\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:fbf2e6e2-824c-43fd-a3ed-e3f9d16928b3@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:a8948679f7e033c33fb3db435860c38a30ce45b2@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260831T180000
 DTEND;TZID=Europe/Madrid:20260831T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
 END:VEVENT
 BEGIN:VEVENT
-UID:790f78e5-6759-4e6e-b296-336248218a87@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260901T180000
-DTEND;TZID=Europe/Madrid:20260901T184000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+UID:7aaeb76bb8feb498621acf9d2bf5102164b16e79@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260901T203000
+DTEND;TZID=Europe/Madrid:20260901T211000
+SUMMARY:💪 Fuerza — Martes
+DESCRIPTION:40 min. 0-5' calentamiento + aproximaciones. 5-19' sentadilla/prensa\n3x5-6 @ RPE 7-7\,5\, 2'. 19-31' banca 3x5-6 @ RPE 7-7\,5\, 90s.\n31-38' remo apoyado 2x8-10 + brazos 2x10. 38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit cercano ha tenido mucho volumen del mismo patrón\n(piernas\, bisagra\, hombros\, espalda o agarre)\, reduce una serie o cambia el patrón\npor una variante menos fatigante. No entrenar al fallo.\nProgresión: cuando completes todas las series con técnica sólida y RPE <= 7\,5\,\nsube 2\,5-5 kg la próxima vez que aparezca el mismo patrón. Registra carga\, reps y RPE.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:1c3bed89-733b-42ec-bd24-616a5077d931@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:e4baf3644126f7cf73bf85a9f3d29cd26d6a60ad@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260901T210000
 DTEND;TZID=Europe/Madrid:20260901T221500
-SUMMARY:Entrevista - Repaso final
-DESCRIPTION:20 min Lit/LitElement. 15 min Web Components. 15 min Angular vs Lit. 15 min experiencia profesional. 10 min preguntas personales. No aprender contenido nuevo. Terminar y descansar. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🎯 Estudio — Repaso final entrevista
+DESCRIPTION:20' Lit/migración. 15' Web Components. 15' Angular/TypeScript/RxJS.\n15' experiencia profesional. 10' preguntas para la empresa. Nada nuevo. Resultado:\nlista de respuestas clave + descanso.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://lit.dev/docs/getting-started/\nhttps://lit.dev/docs/components/properties/\nhttps://lit.dev/docs/components/lifecycle/\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_templates_and_slots\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:ae215e54-1c32-4355-8df5-e8a23bbc6482@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:d2d9f91474b88d39fecc67f88bfc5a006dcb4bb6@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260902T180000
+DTEND;TZID=Europe/Madrid:20260902T191500
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
+END:VEVENT
+BEGIN:VEVENT
+UID:860aca90acb7b3300aca5de4f85d5d256f895787@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260902T210000
 DTEND;TZID=Europe/Madrid:20260902T221500
-SUMMARY:Entrevista - Repaso
-DESCRIPTION:Repasar LitElement\, Web Components\, JavaScript/TypeScript y experiencia profesional. Priorizar practica y respuestas en voz alta. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🎯 Entrevista — KISTERS AG
+DESCRIPTION:Antes de la entrevista: 20-30' máximo. Repasar presentación\, experiencia\,\nAngular/TypeScript\, Web Components\, Lit y estrategia de migración. No estudiar\ncontenido nuevo. Después: 15' registrar preguntas\, 30' reconstruir respuestas\,\n20' identificar lagunas\, 10' elegir prioridades.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://lit.dev/docs/getting-started/\nhttps://lit.dev/docs/components/properties/\nhttps://lit.dev/docs/components/lifecycle/\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_templates_and_slots\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:551aaafe-d2c5-4a88-bc59-1c3bda0470d8@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260903T180000
-DTEND;TZID=Europe/Madrid:20260903T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+UID:9fec8b1599da1f14975c574a478e84f8d0db14bd@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260903T070000
+DTEND;TZID=Europe/Madrid:20260903T073500
+SUMMARY:💪 Fuerza — Jueves OPCIONAL
+DESCRIPTION:30-35'. Press máquina 3x8 + remo con pecho apoyado 3x8 +\nbrazos 2x10 + core. Todo @ RPE 6-7.\nDuración: 30-35 min.\nEsta sesión solo se hace si el CrossFit del miércoles fue ligero/moderado y te\nencuentras recuperado. RPE 6-7. Si hay fatiga relevante de hombros\, espalda\, piernas\no agarre: DESCANSO. Esta tercera sesión es opcional\, no obligatoria.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:1cc3c939-deb3-41e0-a573-9fc6fb3e2dd0@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:630163c370bfbbb80082ee31df948db4cd110a18@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260904T070000
 DTEND;TZID=Europe/Madrid:20260904T074000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+SUMMARY:💪 Fuerza — Viernes
+DESCRIPTION:40 min. 0-5' calentamiento. 5-19' bisagra o pierna 3x5-6 @ RPE 7\, 2'.\n19-31' empuje principal 3x6-8 @ RPE 7\, 90s. 31-38' tirón + brazos 2x10.\n38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit del miércoles/jueves tuvo mucho volumen de\ndeadlift\, clean/snatch\, swings\, sentadillas\, lunges\, hombros o agarre\, cambia el\npatrón coincidente por una variante menos fatigante. No entrenar al fallo.\nProgresión: RPE 7 como base\; sube carga solo con técnica sólida.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:8614feec-5349-4c6f-b2d5-05da725203b4@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:96649b884cb8fa7c94da2f8a36545ef412087597@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260904T210000
 DTEND;TZID=Europe/Madrid:20260904T221500
-SUMMARY:Desarrollo - Angular avanzado
-DESCRIPTION:Implementar una pequena feature con standalone components\, signals/RxJS y separacion clara entre UI\, dominio y datos. Documentar 3 decisiones tecnicas. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Angular avanzado
+DESCRIPTION:10' repaso mínimo. 50' implementar una feature con standalone components y signals/RxJS. 10' code review. 5' registrar 3 decisiones técnicas.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:56063ed1-b778-4ecf-8696-d16ecdc0a9e4@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:a42f69dd38d6db1fd4167f713b79727b283b383a@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260906T100000
+DTEND;TZID=Europe/Madrid:20260906T113000
+SUMMARY:🚴 Bici
+DESCRIPTION:60-120' preferentemente Z2/ritmo conversacional. Salida libre.\nRegistrar duración\, distancia\, desnivel y sensaciones. Si la semana está cargada\,\n60' es suficiente.
+LOCATION:Bici
+END:VEVENT
+BEGIN:VEVENT
+UID:84a1b5230db3c8ed616b9b4295d6d23e6c3bf62a@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260906T200000
 DTEND;TZID=Europe/Madrid:20260906T211500
-SUMMARY:Desarrollo - TypeScript avanzado
-DESCRIPTION:Practicar generics\, constraints\, Pick\, Omit\, Partial\, Record\, discriminated unions y type narrowing. Crear 3 ejemplos reutilizables. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — TypeScript profundo
+DESCRIPTION:15' generics/constraints. 20' narrowing. 25' utility/mapped/conditional types. 10' crear 3 ejemplos. 5' explicar cuándo NO complicar los tipos.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:9415aef5-8ef4-426c-982b-b393d3bd0f81@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:1ffbeda35b5dcc6cf4cd2c3ab06df6d07114a16b@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260907T180000
 DTEND;TZID=Europe/Madrid:20260907T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
 END:VEVENT
 BEGIN:VEVENT
-UID:8caac634-a445-4abe-a8c8-a47cfc44ecc7@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260908T180000
-DTEND;TZID=Europe/Madrid:20260908T184000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+UID:99b4da6d64fd7c9d5e94f245955d6e8793a94dbe@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260908T203000
+DTEND;TZID=Europe/Madrid:20260908T211000
+SUMMARY:💪 Fuerza — Martes
+DESCRIPTION:40 min. 0-5' calentamiento + aproximaciones. 5-19' peso muerto/RDL\n3x4-6 @ RPE 7\, 2'. 19-31' press inclinado/militar 3x6-8 @ RPE 7\, 90s.\n31-38' jalón/remo 2x8-10 + brazos 2x10. 38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit cercano ha tenido mucho volumen del mismo patrón\n(piernas\, bisagra\, hombros\, espalda o agarre)\, reduce una serie o cambia el patrón\npor una variante menos fatigante. No entrenar al fallo.\nProgresión: cuando completes todas las series con técnica sólida y RPE <= 7\,5\,\nsube 2\,5-5 kg la próxima vez que aparezca el mismo patrón. Registra carga\, reps y RPE.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:8f554113-12e2-4d22-ba2c-29dea8ddffa7@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:a56f210a50f14f31a8b5ccb1027f512ff5bc16d2@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260908T210000
 DTEND;TZID=Europe/Madrid:20260908T221500
-SUMMARY:Desarrollo - Lit y Web Components
-DESCRIPTION:Construir un componente Lit reutilizable con propiedades\, estado\, CustomEvent\, slots y Shadow DOM. Compararlo con Angular. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — JavaScript profundo
+DESCRIPTION:15' event loop/closures. 35' ejercicios de promises\, async/await y microtasks. 15' corregir. 10' explicar resultados sin apuntes.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:fe841541-e0cb-49e1-9ad1-e5288db92269@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:117dce6b1bec888e61ec1a9492b180ca051299e7@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260909T180000
+DTEND;TZID=Europe/Madrid:20260909T191500
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
+END:VEVENT
+BEGIN:VEVENT
+UID:536bf0f4d3d2177142d130bb44efb44dead5fb17@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260909T210000
 DTEND;TZID=Europe/Madrid:20260909T221500
-SUMMARY:Desarrollo - JavaScript asincrono
-DESCRIPTION:Practicar event loop\, microtasks\, macrotasks\, Promise\, async/await\, errores y concurrencia. Resolver ejercicios y explicar cada resultado. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Node/AdonisJS
+DESCRIPTION:10' diseño. 45' implementar endpoint con validación\, capas\, errores y persistencia. 15' test. 5' registrar decisiones.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://nodejs.org/en/learn\nhttps://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:da8d21ad-a133-4383-8a3a-00716a875024@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260910T180000
-DTEND;TZID=Europe/Madrid:20260910T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+UID:6cae1a09a8bec9468a299718aa638e3d592a00f3@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260910T070000
+DTEND;TZID=Europe/Madrid:20260910T073500
+SUMMARY:💪 Fuerza — Jueves OPCIONAL
+DESCRIPTION:30-35'. Press máquina 3x8 + remo con pecho apoyado 3x8 +\nbrazos 2x10 + core. Todo @ RPE 6-7.\nDuración: 30-35 min.\nEsta sesión solo se hace si el CrossFit del miércoles fue ligero/moderado y te\nencuentras recuperado. RPE 6-7. Si hay fatiga relevante de hombros\, espalda\, piernas\no agarre: DESCANSO. Esta tercera sesión es opcional\, no obligatoria.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:13db0d03-b11b-4add-9d0c-46acfe19a973@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:c1f44db11d83b0ef1c9acab75632e697be1ccb3d@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260911T070000
 DTEND;TZID=Europe/Madrid:20260911T074000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+SUMMARY:💪 Fuerza — Viernes
+DESCRIPTION:40 min. 0-5' calentamiento. 5-19' bisagra o pierna 3x5-6 @ RPE 7\, 2'.\n19-31' empuje principal 3x6-8 @ RPE 7\, 90s. 31-38' tirón + brazos 2x10.\n38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit del miércoles/jueves tuvo mucho volumen de\ndeadlift\, clean/snatch\, swings\, sentadillas\, lunges\, hombros o agarre\, cambia el\npatrón coincidente por una variante menos fatigante. No entrenar al fallo.\nProgresión: RPE 7 como base\; sube carga solo con técnica sólida.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:ec992577-f941-4207-aa64-befe02f64914@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:a1b05057aff8c4a08744173f31ebf3c50da3f1c0@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260911T210000
 DTEND;TZID=Europe/Madrid:20260911T221500
-SUMMARY:Desarrollo - RxJS
-DESCRIPTION:Construir un flujo realista de busqueda con debounceTime\, distinctUntilChanged\, switchMap\, catchError y finalize. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Testing
+DESCRIPTION:10' elegir feature. 45' tests happy path + error + edge case. 15' ejecutar/corregir. 5' registrar aprendizaje.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:c16e5c75-69aa-40a3-b95c-3fb0822f1afa@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:f6fe5893cddc8f94af20a2d6b89cc24a7d984e91@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260913T100000
+DTEND;TZID=Europe/Madrid:20260913T113000
+SUMMARY:🚴 Bici
+DESCRIPTION:60-120' preferentemente Z2/ritmo conversacional. Salida libre.\nRegistrar duración\, distancia\, desnivel y sensaciones. Si la semana está cargada\,\n60' es suficiente.
+LOCATION:Bici
+END:VEVENT
+BEGIN:VEVENT
+UID:ba993949d464ee85db1f91d6adfbf82158b15300@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260913T200000
 DTEND;TZID=Europe/Madrid:20260913T211500
-SUMMARY:Desarrollo - Testing frontend
-DESCRIPTION:Escribir tests de componente o servicio cubriendo happy path\, errores y casos limite. Revisar mantenibilidad. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Arquitectura
+DESCRIPTION:15' elegir feature. 30' diseñar UI→dominio→API→BD. 20' comparar dos alternativas y trade-offs. 10' escribir ADR corto.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals\nhttps://nodejs.org/en/learn\nhttps://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:cab5284e-4c21-42d5-92cf-89b5676722f9@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:c5d358d9f0c85924019a7127591be6cc1d444465@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260914T180000
 DTEND;TZID=Europe/Madrid:20260914T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
 END:VEVENT
 BEGIN:VEVENT
-UID:75487ac5-6547-4306-aefb-f5d40a7d9f9d@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260915T180000
-DTEND;TZID=Europe/Madrid:20260915T184000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+UID:2ee0fe9ed49658217cf8cf8b44952375f5a1fc85@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260915T203000
+DTEND;TZID=Europe/Madrid:20260915T211000
+SUMMARY:💪 Fuerza — Martes
+DESCRIPTION:40 min. 0-5' calentamiento + aproximaciones. 5-19' sentadilla/prensa\n3x5-6 @ RPE 7-7\,5\, 2'. 19-31' banca 3x5-6 @ RPE 7-7\,5\, 90s.\n31-38' remo apoyado 2x8-10 + brazos 2x10. 38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit cercano ha tenido mucho volumen del mismo patrón\n(piernas\, bisagra\, hombros\, espalda o agarre)\, reduce una serie o cambia el patrón\npor una variante menos fatigante. No entrenar al fallo.\nProgresión: cuando completes todas las series con técnica sólida y RPE <= 7\,5\,\nsube 2\,5-5 kg la próxima vez que aparezca el mismo patrón. Registra carga\, reps y RPE.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:5eef2a32-151c-4ab8-9806-f8636c83e264@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:a13b167363723953240998e7c5a67ab20d093a7a@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260915T210000
 DTEND;TZID=Europe/Madrid:20260915T221500
-SUMMARY:Desarrollo - Node y arquitectura
-DESCRIPTION:Implementar un endpoint con validacion\, controller\, use case\, repository y manejo de errores. Escribir pruebas basicas. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Lit/Web Components
+DESCRIPTION:15' repaso. 45' construir un componente Lit reutilizable con properties\, state\, CustomEvent y slot. 10' compararlo con Angular. 5' registrar.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://lit.dev/docs/getting-started/\nhttps://lit.dev/docs/components/properties/\nhttps://lit.dev/docs/components/lifecycle/\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_templates_and_slots
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:67acdb13-eb6e-4b17-8a1e-f8b70bcaa3d0@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:823a316143fddfaa0f319648c778ac5122a6cb5c@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260916T180000
+DTEND;TZID=Europe/Madrid:20260916T191500
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
+END:VEVENT
+BEGIN:VEVENT
+UID:9d779c23f339f05c7201bf67c7f2e32af877cb9b@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260916T210000
 DTEND;TZID=Europe/Madrid:20260916T221500
-SUMMARY:Desarrollo - Arquitectura frontend
-DESCRIPTION:Disenar una pequena aplicacion: componentes\, dominio\, estado\, API y persistencia. Justificar fronteras y evitar sobrearquitectura. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Contexto IT
+DESCRIPTION:75' estudiar un tema: CI/CD\, Docker\, cloud\, observabilidad\, seguridad\, cachés\,\ncolas o arquitectura distribuida. Resultado: mapa conceptual + 5 preguntas.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://docs.docker.com/get-started/\nhttps://nodejs.org/en/learn\nhttps://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:c31d2f58-c2a4-44dc-91cc-69f764032ca2@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260917T180000
-DTEND;TZID=Europe/Madrid:20260917T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+UID:7b59cd71c4eb4b60ee6f969a38cc1a3163b335e8@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260917T070000
+DTEND;TZID=Europe/Madrid:20260917T073500
+SUMMARY:💪 Fuerza — Jueves OPCIONAL
+DESCRIPTION:30-35'. Press máquina 3x8 + remo con pecho apoyado 3x8 +\nbrazos 2x10 + core. Todo @ RPE 6-7.\nDuración: 30-35 min.\nEsta sesión solo se hace si el CrossFit del miércoles fue ligero/moderado y te\nencuentras recuperado. RPE 6-7. Si hay fatiga relevante de hombros\, espalda\, piernas\no agarre: DESCANSO. Esta tercera sesión es opcional\, no obligatoria.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:c2dd1bc2-95fd-4ddd-ac75-f7d9cf3a149d@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:813e4372a0b8ed17f5a8b4411bb8ef123e04e925@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260918T070000
 DTEND;TZID=Europe/Madrid:20260918T074000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+SUMMARY:💪 Fuerza — Viernes
+DESCRIPTION:40 min. 0-5' calentamiento. 5-19' bisagra o pierna 3x5-6 @ RPE 7\, 2'.\n19-31' empuje principal 3x6-8 @ RPE 7\, 90s. 31-38' tirón + brazos 2x10.\n38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit del miércoles/jueves tuvo mucho volumen de\ndeadlift\, clean/snatch\, swings\, sentadillas\, lunges\, hombros o agarre\, cambia el\npatrón coincidente por una variante menos fatigante. No entrenar al fallo.\nProgresión: RPE 7 como base\; sube carga solo con técnica sólida.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:661b7618-7895-4494-93d9-bb67c7a0ea6f@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:472d9a9701ac422a76fef294f29ec62a3c215aff@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260918T210000
 DTEND;TZID=Europe/Madrid:20260918T221500
-SUMMARY:Desarrollo - Gym Tracker Pro
-DESCRIPTION:Implementar una pieza pequena y vertical del proyecto: UI\, dominio y datos. Priorizar una funcionalidad terminada. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Gym Tracker Pro
+DESCRIPTION:10' elegir una pieza vertical. 50' UI + lógica + datos/API. 10' pruebas. 5' commit/documentación. Resultado: feature funcionando.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals\nhttps://nodejs.org/en/learn\nhttps://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:510e3a63-0166-49a2-b663-202f3490426f@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:83aed9d7cbebde26763107b727fb4117919d5827@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260920T100000
+DTEND;TZID=Europe/Madrid:20260920T113000
+SUMMARY:🚴 Bici
+DESCRIPTION:60-120' preferentemente Z2/ritmo conversacional. Salida libre.\nRegistrar duración\, distancia\, desnivel y sensaciones. Si la semana está cargada\,\n60' es suficiente.
+LOCATION:Bici
+END:VEVENT
+BEGIN:VEVENT
+UID:b38c902c7e29c7bbe5d34b3a4a4b79c505627bab@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260920T200000
 DTEND;TZID=Europe/Madrid:20260920T211500
-SUMMARY:Desarrollo - Entrevista tecnica JS/TS
-DESCRIPTION:Responder preguntas de closures\, this\, prototipos\, event loop\, generics y type narrowing. Implementar 2 ejercicios sin consultar soluciones. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Code review
+DESCRIPTION:15' revisar naming/duplicación. 20' tipos y errores. 20' arquitectura. 15' tests. 5' refactor final. Resultado: diff antes/después.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:20366c8b-a350-4a57-bcdd-1e3995d6772d@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:7c68827ea51fe7fe18982076d11b2db57bb297d3@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260921T180000
 DTEND;TZID=Europe/Madrid:20260921T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
 END:VEVENT
 BEGIN:VEVENT
-UID:09341f4b-7233-4575-b160-3b3322283c80@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260922T180000
-DTEND;TZID=Europe/Madrid:20260922T184000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+UID:9c1d1f480dcb1c6dadb6be54bc146e3efe2d05ff@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260922T203000
+DTEND;TZID=Europe/Madrid:20260922T211000
+SUMMARY:💪 Fuerza — Martes
+DESCRIPTION:40 min. 0-5' calentamiento + aproximaciones. 5-19' peso muerto/RDL\n3x4-6 @ RPE 7\, 2'. 19-31' press inclinado/militar 3x6-8 @ RPE 7\, 90s.\n31-38' jalón/remo 2x8-10 + brazos 2x10. 38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit cercano ha tenido mucho volumen del mismo patrón\n(piernas\, bisagra\, hombros\, espalda o agarre)\, reduce una serie o cambia el patrón\npor una variante menos fatigante. No entrenar al fallo.\nProgresión: cuando completes todas las series con técnica sólida y RPE <= 7\,5\,\nsube 2\,5-5 kg la próxima vez que aparezca el mismo patrón. Registra carga\, reps y RPE.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:5dadc35b-1e66-4f39-a631-f253914baf65@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:a90e13b41e999940e06e711415ab430aba4bb770@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260922T210000
 DTEND;TZID=Europe/Madrid:20260922T221500
-SUMMARY:Desarrollo - Rendimiento Angular
-DESCRIPTION:Revisar change detection\, OnPush\, signals\, @for\, lazy loading y memoizacion. Aplicar 2 mejoras a un ejemplo. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Entrevista técnica
+DESCRIPTION:20' cinco preguntas JS/TS. 25' dos ejercicios de código. 20' explicación oral. 10' registrar fallos.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:f0e4151d-a910-4c12-80f0-4c40478878f4@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:dede7d8dd5322e12e7b40947aba5ec3c161bcaea@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260923T180000
+DTEND;TZID=Europe/Madrid:20260923T191500
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
+END:VEVENT
+BEGIN:VEVENT
+UID:3d7f09e84df712c7ca96c27c7256bbd6faddaa57@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260923T210000
 DTEND;TZID=Europe/Madrid:20260923T221500
-SUMMARY:Desarrollo - Accesibilidad
-DESCRIPTION:Auditar teclado\, foco\, labels\, roles\, contraste y mensajes de error. Corregir los problemas encontrados. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — IA aplicada al desarrollo
+DESCRIPTION:20' investigar usos útiles de LLMs en código/tests/documentación. 30' probar un flujo\ncon verificación. 15' identificar riesgos. 10' crear checklist personal.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:9f722194-5d09-4192-9fe9-b66799b59934@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260924T180000
-DTEND;TZID=Europe/Madrid:20260924T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+UID:482d126a71f07e7f6e5bc8231800be012bdf550f@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260924T070000
+DTEND;TZID=Europe/Madrid:20260924T073500
+SUMMARY:💪 Fuerza — Jueves OPCIONAL
+DESCRIPTION:30-35'. Press máquina 3x8 + remo con pecho apoyado 3x8 +\nbrazos 2x10 + core. Todo @ RPE 6-7.\nDuración: 30-35 min.\nEsta sesión solo se hace si el CrossFit del miércoles fue ligero/moderado y te\nencuentras recuperado. RPE 6-7. Si hay fatiga relevante de hombros\, espalda\, piernas\no agarre: DESCANSO. Esta tercera sesión es opcional\, no obligatoria.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:8f1ef08b-6a75-4ab4-a506-99872c489f0f@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:fc02e3db269f5a324ccb0e2779558112122462c3@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260925T070000
 DTEND;TZID=Europe/Madrid:20260925T074000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+SUMMARY:💪 Fuerza — Viernes
+DESCRIPTION:40 min. 0-5' calentamiento. 5-19' bisagra o pierna 3x5-6 @ RPE 7\, 2'.\n19-31' empuje principal 3x6-8 @ RPE 7\, 90s. 31-38' tirón + brazos 2x10.\n38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit del miércoles/jueves tuvo mucho volumen de\ndeadlift\, clean/snatch\, swings\, sentadillas\, lunges\, hombros o agarre\, cambia el\npatrón coincidente por una variante menos fatigante. No entrenar al fallo.\nProgresión: RPE 7 como base\; sube carga solo con técnica sólida.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:7b4d351f-8b90-465f-88ec-bcfbb447eb03@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:68549b0fb32a6f8c081b1cc586b175ccab628876@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260925T210000
 DTEND;TZID=Europe/Madrid:20260925T221500
-SUMMARY:Desarrollo - Angular avanzado
-DESCRIPTION:Implementar una pequena feature con standalone components\, signals/RxJS y separacion clara entre UI\, dominio y datos. Documentar 3 decisiones tecnicas. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Angular avanzado
+DESCRIPTION:10' repaso mínimo. 50' implementar una feature con standalone components y signals/RxJS. 10' code review. 5' registrar 3 decisiones técnicas.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:66e7b930-92ab-4a27-8d98-00382517b32f@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:5aa7043722af39ed430fac839357515c0b1fe9a7@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260927T100000
+DTEND;TZID=Europe/Madrid:20260927T113000
+SUMMARY:🚴 Bici
+DESCRIPTION:60-120' preferentemente Z2/ritmo conversacional. Salida libre.\nRegistrar duración\, distancia\, desnivel y sensaciones. Si la semana está cargada\,\n60' es suficiente.
+LOCATION:Bici
+END:VEVENT
+BEGIN:VEVENT
+UID:534da848e567a94ba9099c4a303d7648e5f0138c@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260927T200000
 DTEND;TZID=Europe/Madrid:20260927T211500
-SUMMARY:Desarrollo - TypeScript avanzado
-DESCRIPTION:Practicar generics\, constraints\, Pick\, Omit\, Partial\, Record\, discriminated unions y type narrowing. Crear 3 ejemplos reutilizables. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — TypeScript profundo
+DESCRIPTION:15' generics/constraints. 20' narrowing. 25' utility/mapped/conditional types. 10' crear 3 ejemplos. 5' explicar cuándo NO complicar los tipos.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:1d067024-4f1c-4eff-9ad4-90d6b2a8c27c@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:e5205103cc9c4e006d0a451d17c6e31238426a75@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260928T180000
 DTEND;TZID=Europe/Madrid:20260928T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
 END:VEVENT
 BEGIN:VEVENT
-UID:dbbc6d4e-0a2c-49cb-bb38-b72c0658461a@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260929T180000
-DTEND;TZID=Europe/Madrid:20260929T184000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+UID:abd563fb0a3ef9f9ac15cae084bafb5c25fa2616@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260929T203000
+DTEND;TZID=Europe/Madrid:20260929T211000
+SUMMARY:💪 Fuerza — Martes
+DESCRIPTION:40 min. 0-5' calentamiento + aproximaciones. 5-19' sentadilla/prensa\n3x5-6 @ RPE 7-7\,5\, 2'. 19-31' banca 3x5-6 @ RPE 7-7\,5\, 90s.\n31-38' remo apoyado 2x8-10 + brazos 2x10. 38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit cercano ha tenido mucho volumen del mismo patrón\n(piernas\, bisagra\, hombros\, espalda o agarre)\, reduce una serie o cambia el patrón\npor una variante menos fatigante. No entrenar al fallo.\nProgresión: cuando completes todas las series con técnica sólida y RPE <= 7\,5\,\nsube 2\,5-5 kg la próxima vez que aparezca el mismo patrón. Registra carga\, reps y RPE.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:5554ee3f-6c7a-4f28-b3ad-f2867d9768a2@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:bc0f513e2bfbc035995da1534b8bda8454c3e12c@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260929T210000
 DTEND;TZID=Europe/Madrid:20260929T221500
-SUMMARY:Desarrollo - Lit y Web Components
-DESCRIPTION:Construir un componente Lit reutilizable con propiedades\, estado\, CustomEvent\, slots y Shadow DOM. Compararlo con Angular. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — JavaScript profundo
+DESCRIPTION:15' event loop/closures. 35' ejercicios de promises\, async/await y microtasks. 15' corregir. 10' explicar resultados sin apuntes.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:5d2e06b3-64de-4991-bdd7-1720b61a0512@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:2f50640562b5d99cb067acc617d40b4b0e6a25b6@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20260930T180000
+DTEND;TZID=Europe/Madrid:20260930T191500
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
+END:VEVENT
+BEGIN:VEVENT
+UID:eceba58aff620b2ac6a5685c90bab6527fef46c2@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20260930T210000
 DTEND;TZID=Europe/Madrid:20260930T221500
-SUMMARY:Desarrollo - JavaScript asincrono
-DESCRIPTION:Practicar event loop\, microtasks\, macrotasks\, Promise\, async/await\, errores y concurrencia. Resolver ejercicios y explicar cada resultado. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Node/AdonisJS
+DESCRIPTION:10' diseño. 45' implementar endpoint con validación\, capas\, errores y persistencia. 15' test. 5' registrar decisiones.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://nodejs.org/en/learn\nhttps://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:82f29b09-a982-4d00-8b97-3a0b2c3ccd27@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261001T180000
-DTEND;TZID=Europe/Madrid:20261001T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+UID:a45e712e2d6c121b17023a6db2f29f2855a59d01@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261001T070000
+DTEND;TZID=Europe/Madrid:20261001T073500
+SUMMARY:💪 Fuerza — Jueves OPCIONAL
+DESCRIPTION:30-35'. Press máquina 3x8 + remo con pecho apoyado 3x8 +\nbrazos 2x10 + core. Todo @ RPE 6-7.\nDuración: 30-35 min.\nEsta sesión solo se hace si el CrossFit del miércoles fue ligero/moderado y te\nencuentras recuperado. RPE 6-7. Si hay fatiga relevante de hombros\, espalda\, piernas\no agarre: DESCANSO. Esta tercera sesión es opcional\, no obligatoria.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:32f233d8-fd83-4848-8ef4-d28f07c16114@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:e8251e48a5b0fb71d750a859bef95ff5202400de@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261002T070000
 DTEND;TZID=Europe/Madrid:20261002T074000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+SUMMARY:💪 Fuerza — Viernes
+DESCRIPTION:40 min. 0-5' calentamiento. 5-19' bisagra o pierna 3x5-6 @ RPE 7\, 2'.\n19-31' empuje principal 3x6-8 @ RPE 7\, 90s. 31-38' tirón + brazos 2x10.\n38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit del miércoles/jueves tuvo mucho volumen de\ndeadlift\, clean/snatch\, swings\, sentadillas\, lunges\, hombros o agarre\, cambia el\npatrón coincidente por una variante menos fatigante. No entrenar al fallo.\nProgresión: RPE 7 como base\; sube carga solo con técnica sólida.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:a9cc42e6-bf2f-40b1-a8c9-ce9fbdf075a6@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:73ec58e6af76cbc561315c8c0a668eaf4d59e2c8@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261002T210000
 DTEND;TZID=Europe/Madrid:20261002T221500
-SUMMARY:Desarrollo - RxJS
-DESCRIPTION:Construir un flujo realista de busqueda con debounceTime\, distinctUntilChanged\, switchMap\, catchError y finalize. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Testing
+DESCRIPTION:10' elegir feature. 45' tests happy path + error + edge case. 15' ejecutar/corregir. 5' registrar aprendizaje.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:29493489-0851-4740-9885-83a9520d21ef@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:c707c2530298fdb921c40c1a25b8304e4b081e92@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261004T100000
+DTEND;TZID=Europe/Madrid:20261004T113000
+SUMMARY:🚴 Bici
+DESCRIPTION:60-120' preferentemente Z2/ritmo conversacional. Salida libre.\nRegistrar duración\, distancia\, desnivel y sensaciones. Si la semana está cargada\,\n60' es suficiente.
+LOCATION:Bici
+END:VEVENT
+BEGIN:VEVENT
+UID:1db158888ae9463ba80a0f298bbaab70de648f22@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261004T200000
 DTEND;TZID=Europe/Madrid:20261004T211500
-SUMMARY:Desarrollo - Testing frontend
-DESCRIPTION:Escribir tests de componente o servicio cubriendo happy path\, errores y casos limite. Revisar mantenibilidad. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Arquitectura
+DESCRIPTION:15' elegir feature. 30' diseñar UI→dominio→API→BD. 20' comparar dos alternativas y trade-offs. 10' escribir ADR corto.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals\nhttps://nodejs.org/en/learn\nhttps://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:ef4e71e9-59f6-4d53-ab03-b30d8385b1c7@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:2e655a7d812f0dacb2e157d7520f2c8da9bfd6d4@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261005T180000
 DTEND;TZID=Europe/Madrid:20261005T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
 END:VEVENT
 BEGIN:VEVENT
-UID:7147c7b4-8632-4b94-97e9-302a3e8fbf98@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261006T180000
-DTEND;TZID=Europe/Madrid:20261006T184000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+UID:9efd1b5fe235513a20e28cdd217a91d89d1ba0d9@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261006T203000
+DTEND;TZID=Europe/Madrid:20261006T211000
+SUMMARY:💪 Fuerza — Martes
+DESCRIPTION:40 min. 0-5' calentamiento + aproximaciones. 5-19' peso muerto/RDL\n3x4-6 @ RPE 7\, 2'. 19-31' press inclinado/militar 3x6-8 @ RPE 7\, 90s.\n31-38' jalón/remo 2x8-10 + brazos 2x10. 38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit cercano ha tenido mucho volumen del mismo patrón\n(piernas\, bisagra\, hombros\, espalda o agarre)\, reduce una serie o cambia el patrón\npor una variante menos fatigante. No entrenar al fallo.\nProgresión: cuando completes todas las series con técnica sólida y RPE <= 7\,5\,\nsube 2\,5-5 kg la próxima vez que aparezca el mismo patrón. Registra carga\, reps y RPE.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:c7f11ea7-b8ac-44f2-9134-51128b07e446@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:5644a6a0501b7eb99953db1e0b1d96af09f48b63@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261006T210000
 DTEND;TZID=Europe/Madrid:20261006T221500
-SUMMARY:Desarrollo - Node y arquitectura
-DESCRIPTION:Implementar un endpoint con validacion\, controller\, use case\, repository y manejo de errores. Escribir pruebas basicas. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Lit/Web Components
+DESCRIPTION:15' repaso. 45' construir un componente Lit reutilizable con properties\, state\, CustomEvent y slot. 10' compararlo con Angular. 5' registrar.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://lit.dev/docs/getting-started/\nhttps://lit.dev/docs/components/properties/\nhttps://lit.dev/docs/components/lifecycle/\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_templates_and_slots
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:caba7cfb-f43f-40f5-ba41-17bba30a91b2@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:dc1276bbc60748d95f277281e71235345a148f39@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261007T180000
+DTEND;TZID=Europe/Madrid:20261007T191500
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
+END:VEVENT
+BEGIN:VEVENT
+UID:00a2a99f906d9781e7efacfea4c0181cff5224db@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261007T210000
 DTEND;TZID=Europe/Madrid:20261007T221500
-SUMMARY:Desarrollo - Arquitectura frontend
-DESCRIPTION:Disenar una pequena aplicacion: componentes\, dominio\, estado\, API y persistencia. Justificar fronteras y evitar sobrearquitectura. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Contexto IT
+DESCRIPTION:75' estudiar un tema: CI/CD\, Docker\, cloud\, observabilidad\, seguridad\, cachés\,\ncolas o arquitectura distribuida. Resultado: mapa conceptual + 5 preguntas.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://docs.docker.com/get-started/\nhttps://nodejs.org/en/learn\nhttps://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:6c11f953-eb39-487c-b8e8-bb2c11372b8b@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261008T180000
-DTEND;TZID=Europe/Madrid:20261008T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+UID:8f9748fd1bb87e251108fce1a03d7509d8837907@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261008T070000
+DTEND;TZID=Europe/Madrid:20261008T073500
+SUMMARY:💪 Fuerza — Jueves OPCIONAL
+DESCRIPTION:30-35'. Press máquina 3x8 + remo con pecho apoyado 3x8 +\nbrazos 2x10 + core. Todo @ RPE 6-7.\nDuración: 30-35 min.\nEsta sesión solo se hace si el CrossFit del miércoles fue ligero/moderado y te\nencuentras recuperado. RPE 6-7. Si hay fatiga relevante de hombros\, espalda\, piernas\no agarre: DESCANSO. Esta tercera sesión es opcional\, no obligatoria.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:94e15479-b7fd-4e75-924b-5cf20f54ef2e@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:ea8f87e486ce860b99b25fda16210f5b74b385a4@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261009T070000
 DTEND;TZID=Europe/Madrid:20261009T074000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+SUMMARY:💪 Fuerza — Viernes
+DESCRIPTION:40 min. 0-5' calentamiento. 5-19' bisagra o pierna 3x5-6 @ RPE 7\, 2'.\n19-31' empuje principal 3x6-8 @ RPE 7\, 90s. 31-38' tirón + brazos 2x10.\n38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit del miércoles/jueves tuvo mucho volumen de\ndeadlift\, clean/snatch\, swings\, sentadillas\, lunges\, hombros o agarre\, cambia el\npatrón coincidente por una variante menos fatigante. No entrenar al fallo.\nProgresión: RPE 7 como base\; sube carga solo con técnica sólida.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:411cd7d8-e038-406e-ae71-b84bf451418d@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:7f44dd6cd74a22bc60ca52651378919367da818c@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261009T210000
 DTEND;TZID=Europe/Madrid:20261009T221500
-SUMMARY:Desarrollo - Gym Tracker Pro
-DESCRIPTION:Implementar una pieza pequena y vertical del proyecto: UI\, dominio y datos. Priorizar una funcionalidad terminada. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Gym Tracker Pro
+DESCRIPTION:10' elegir una pieza vertical. 50' UI + lógica + datos/API. 10' pruebas. 5' commit/documentación. Resultado: feature funcionando.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals\nhttps://nodejs.org/en/learn\nhttps://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:c9f72021-0d71-4a07-858b-d634ec11d73b@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:6c79cd501273cc241b6b9776b88ad4c7447bb810@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261011T100000
+DTEND;TZID=Europe/Madrid:20261011T113000
+SUMMARY:🚴 Bici
+DESCRIPTION:60-120' preferentemente Z2/ritmo conversacional. Salida libre.\nRegistrar duración\, distancia\, desnivel y sensaciones. Si la semana está cargada\,\n60' es suficiente.
+LOCATION:Bici
+END:VEVENT
+BEGIN:VEVENT
+UID:c927a26c4e8bde2dfccb745d44cc7810b7111eb5@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261011T200000
 DTEND;TZID=Europe/Madrid:20261011T211500
-SUMMARY:Desarrollo - Entrevista tecnica JS/TS
-DESCRIPTION:Responder preguntas de closures\, this\, prototipos\, event loop\, generics y type narrowing. Implementar 2 ejercicios sin consultar soluciones. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Code review
+DESCRIPTION:15' revisar naming/duplicación. 20' tipos y errores. 20' arquitectura. 15' tests. 5' refactor final. Resultado: diff antes/después.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:f67dc0fb-c4fe-46c3-a2a2-e87afb45008b@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:da26e0fc8b94f239e639e39e68f1e274f72978c1@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261012T180000
 DTEND;TZID=Europe/Madrid:20261012T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
 END:VEVENT
 BEGIN:VEVENT
-UID:a048d48d-0526-4792-9915-d0b93fd7b807@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261013T180000
-DTEND;TZID=Europe/Madrid:20261013T184000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+UID:c8161cb86a4ab476da0d92a632bdb0820ed35d3e@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261013T203000
+DTEND;TZID=Europe/Madrid:20261013T211000
+SUMMARY:💪 Fuerza — Martes
+DESCRIPTION:40 min. 0-5' calentamiento + aproximaciones. 5-19' sentadilla/prensa\n3x5-6 @ RPE 7-7\,5\, 2'. 19-31' banca 3x5-6 @ RPE 7-7\,5\, 90s.\n31-38' remo apoyado 2x8-10 + brazos 2x10. 38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit cercano ha tenido mucho volumen del mismo patrón\n(piernas\, bisagra\, hombros\, espalda o agarre)\, reduce una serie o cambia el patrón\npor una variante menos fatigante. No entrenar al fallo.\nProgresión: cuando completes todas las series con técnica sólida y RPE <= 7\,5\,\nsube 2\,5-5 kg la próxima vez que aparezca el mismo patrón. Registra carga\, reps y RPE.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:9905ea97-7614-4d84-90ec-1d435ad2a6df@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:31c881869a922e2b8a87c696f33c6d3eab08b140@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261013T210000
 DTEND;TZID=Europe/Madrid:20261013T221500
-SUMMARY:Desarrollo - Rendimiento Angular
-DESCRIPTION:Revisar change detection\, OnPush\, signals\, @for\, lazy loading y memoizacion. Aplicar 2 mejoras a un ejemplo. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Entrevista técnica
+DESCRIPTION:20' cinco preguntas JS/TS. 25' dos ejercicios de código. 20' explicación oral. 10' registrar fallos.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:dbbb2460-7757-46d7-92fd-76a525ae33ef@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:b0e9f47bb01059c76d6f9475cba534c012e263db@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261014T180000
+DTEND;TZID=Europe/Madrid:20261014T191500
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
+END:VEVENT
+BEGIN:VEVENT
+UID:51c791da94938d301aa55e58e59fff6ce8d8b712@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261014T210000
 DTEND;TZID=Europe/Madrid:20261014T221500
-SUMMARY:Desarrollo - Accesibilidad
-DESCRIPTION:Auditar teclado\, foco\, labels\, roles\, contraste y mensajes de error. Corregir los problemas encontrados. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — IA aplicada al desarrollo
+DESCRIPTION:20' investigar usos útiles de LLMs en código/tests/documentación. 30' probar un flujo\ncon verificación. 15' identificar riesgos. 10' crear checklist personal.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:04c6b726-90ad-4a3d-a807-eec5b76ca2a5@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261015T180000
-DTEND;TZID=Europe/Madrid:20261015T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+UID:4b466beecdb721552bc16cea543879c70096636c@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261015T070000
+DTEND;TZID=Europe/Madrid:20261015T073500
+SUMMARY:💪 Fuerza — Jueves OPCIONAL
+DESCRIPTION:30-35'. Press máquina 3x8 + remo con pecho apoyado 3x8 +\nbrazos 2x10 + core. Todo @ RPE 6-7.\nDuración: 30-35 min.\nEsta sesión solo se hace si el CrossFit del miércoles fue ligero/moderado y te\nencuentras recuperado. RPE 6-7. Si hay fatiga relevante de hombros\, espalda\, piernas\no agarre: DESCANSO. Esta tercera sesión es opcional\, no obligatoria.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:3111b8a0-c50b-49ac-8f8d-0152c3c0d391@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:085701d05f43771472aebac3fba7383067d20d4a@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261016T070000
 DTEND;TZID=Europe/Madrid:20261016T074000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+SUMMARY:💪 Fuerza — Viernes
+DESCRIPTION:40 min. 0-5' calentamiento. 5-19' bisagra o pierna 3x5-6 @ RPE 7\, 2'.\n19-31' empuje principal 3x6-8 @ RPE 7\, 90s. 31-38' tirón + brazos 2x10.\n38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit del miércoles/jueves tuvo mucho volumen de\ndeadlift\, clean/snatch\, swings\, sentadillas\, lunges\, hombros o agarre\, cambia el\npatrón coincidente por una variante menos fatigante. No entrenar al fallo.\nProgresión: RPE 7 como base\; sube carga solo con técnica sólida.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:894c3767-ec50-4267-a8d7-65c606e80ed1@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:809ed428f042146ce3ac329a0337de4062e8d859@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261016T210000
 DTEND;TZID=Europe/Madrid:20261016T221500
-SUMMARY:Desarrollo - Angular avanzado
-DESCRIPTION:Implementar una pequena feature con standalone components\, signals/RxJS y separacion clara entre UI\, dominio y datos. Documentar 3 decisiones tecnicas. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Angular avanzado
+DESCRIPTION:10' repaso mínimo. 50' implementar una feature con standalone components y signals/RxJS. 10' code review. 5' registrar 3 decisiones técnicas.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:dd8a328d-0296-46d3-b44c-5edea060c69c@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:071338a30ddf283b30b4579e2d1a1ff27f99d0c4@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261018T100000
+DTEND;TZID=Europe/Madrid:20261018T113000
+SUMMARY:🚴 Bici
+DESCRIPTION:60-120' preferentemente Z2/ritmo conversacional. Salida libre.\nRegistrar duración\, distancia\, desnivel y sensaciones. Si la semana está cargada\,\n60' es suficiente.
+LOCATION:Bici
+END:VEVENT
+BEGIN:VEVENT
+UID:9fe9f8d9ba18dc478b680fada0e6736018a4f771@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261018T200000
 DTEND;TZID=Europe/Madrid:20261018T211500
-SUMMARY:Desarrollo - TypeScript avanzado
-DESCRIPTION:Practicar generics\, constraints\, Pick\, Omit\, Partial\, Record\, discriminated unions y type narrowing. Crear 3 ejemplos reutilizables. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — TypeScript profundo
+DESCRIPTION:15' generics/constraints. 20' narrowing. 25' utility/mapped/conditional types. 10' crear 3 ejemplos. 5' explicar cuándo NO complicar los tipos.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:4b796f92-2ea6-40cc-98ed-874c8f20d158@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:2767bf20281287d65203b812c54e9904f9cb189a@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261019T180000
 DTEND;TZID=Europe/Madrid:20261019T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
 END:VEVENT
 BEGIN:VEVENT
-UID:76435005-c54a-44aa-a50b-b4fb664a3d65@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261020T180000
-DTEND;TZID=Europe/Madrid:20261020T184000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+UID:cf61f926422931b966cca48f0a3cdad759d79f93@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261020T203000
+DTEND;TZID=Europe/Madrid:20261020T211000
+SUMMARY:💪 Fuerza — Martes
+DESCRIPTION:40 min. 0-5' calentamiento + aproximaciones. 5-19' peso muerto/RDL\n3x4-6 @ RPE 7\, 2'. 19-31' press inclinado/militar 3x6-8 @ RPE 7\, 90s.\n31-38' jalón/remo 2x8-10 + brazos 2x10. 38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit cercano ha tenido mucho volumen del mismo patrón\n(piernas\, bisagra\, hombros\, espalda o agarre)\, reduce una serie o cambia el patrón\npor una variante menos fatigante. No entrenar al fallo.\nProgresión: cuando completes todas las series con técnica sólida y RPE <= 7\,5\,\nsube 2\,5-5 kg la próxima vez que aparezca el mismo patrón. Registra carga\, reps y RPE.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:fb7d10b2-e129-4b2a-93b4-27c62a2c76e3@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:adbed824ac8fad5a9c53786510b563861054654b@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261020T210000
 DTEND;TZID=Europe/Madrid:20261020T221500
-SUMMARY:Desarrollo - Lit y Web Components
-DESCRIPTION:Construir un componente Lit reutilizable con propiedades\, estado\, CustomEvent\, slots y Shadow DOM. Compararlo con Angular. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — JavaScript profundo
+DESCRIPTION:15' event loop/closures. 35' ejercicios de promises\, async/await y microtasks. 15' corregir. 10' explicar resultados sin apuntes.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:6c11706b-866f-4934-b5b1-cd6c5c8ff3e1@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:eb4fe75e4064cfa6f832f0434dcacba1a0b152cf@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261021T180000
+DTEND;TZID=Europe/Madrid:20261021T191500
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
+END:VEVENT
+BEGIN:VEVENT
+UID:fd6104edaaadc151dd2188fabfc94018935868a4@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261021T210000
 DTEND;TZID=Europe/Madrid:20261021T221500
-SUMMARY:Desarrollo - JavaScript asincrono
-DESCRIPTION:Practicar event loop\, microtasks\, macrotasks\, Promise\, async/await\, errores y concurrencia. Resolver ejercicios y explicar cada resultado. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Node/AdonisJS
+DESCRIPTION:10' diseño. 45' implementar endpoint con validación\, capas\, errores y persistencia. 15' test. 5' registrar decisiones.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://nodejs.org/en/learn\nhttps://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:4e1e72b6-a1ca-480c-b3e9-4d397e2040eb@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261022T180000
-DTEND;TZID=Europe/Madrid:20261022T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+UID:e25969d0e02bb9a8c10bda8a5691fe24ee75d3dd@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261022T070000
+DTEND;TZID=Europe/Madrid:20261022T073500
+SUMMARY:💪 Fuerza — Jueves OPCIONAL
+DESCRIPTION:30-35'. Press máquina 3x8 + remo con pecho apoyado 3x8 +\nbrazos 2x10 + core. Todo @ RPE 6-7.\nDuración: 30-35 min.\nEsta sesión solo se hace si el CrossFit del miércoles fue ligero/moderado y te\nencuentras recuperado. RPE 6-7. Si hay fatiga relevante de hombros\, espalda\, piernas\no agarre: DESCANSO. Esta tercera sesión es opcional\, no obligatoria.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:709d497c-84c8-401b-9e6d-97b134d7c32a@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:83d596567242f4cd24b5c990d007a12c5f57ca29@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261023T070000
 DTEND;TZID=Europe/Madrid:20261023T074000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+SUMMARY:💪 Fuerza — Viernes
+DESCRIPTION:40 min. 0-5' calentamiento. 5-19' bisagra o pierna 3x5-6 @ RPE 7\, 2'.\n19-31' empuje principal 3x6-8 @ RPE 7\, 90s. 31-38' tirón + brazos 2x10.\n38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit del miércoles/jueves tuvo mucho volumen de\ndeadlift\, clean/snatch\, swings\, sentadillas\, lunges\, hombros o agarre\, cambia el\npatrón coincidente por una variante menos fatigante. No entrenar al fallo.\nProgresión: RPE 7 como base\; sube carga solo con técnica sólida.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:972ed8b2-df1b-4c6b-b5f4-329fb625cacc@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:ae696a3c4aa80c776ecfb8dcecbb92c9acfca50f@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261023T210000
 DTEND;TZID=Europe/Madrid:20261023T221500
-SUMMARY:Desarrollo - RxJS
-DESCRIPTION:Construir un flujo realista de busqueda con debounceTime\, distinctUntilChanged\, switchMap\, catchError y finalize. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Testing
+DESCRIPTION:10' elegir feature. 45' tests happy path + error + edge case. 15' ejecutar/corregir. 5' registrar aprendizaje.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:e73e0a1d-f758-4ab0-a500-056c80da2fff@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:1d204eed801d892d76eaf2fbbadf0a9d8bb9664c@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261025T100000
+DTEND;TZID=Europe/Madrid:20261025T113000
+SUMMARY:🚴 Bici
+DESCRIPTION:60-120' preferentemente Z2/ritmo conversacional. Salida libre.\nRegistrar duración\, distancia\, desnivel y sensaciones. Si la semana está cargada\,\n60' es suficiente.
+LOCATION:Bici
+END:VEVENT
+BEGIN:VEVENT
+UID:39f0d23e4542ba2380e4c0324d8bf2298f4e916d@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261025T200000
 DTEND;TZID=Europe/Madrid:20261025T211500
-SUMMARY:Desarrollo - Testing frontend
-DESCRIPTION:Escribir tests de componente o servicio cubriendo happy path\, errores y casos limite. Revisar mantenibilidad. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Arquitectura
+DESCRIPTION:15' elegir feature. 30' diseñar UI→dominio→API→BD. 20' comparar dos alternativas y trade-offs. 10' escribir ADR corto.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals\nhttps://nodejs.org/en/learn\nhttps://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:4d0237db-56d2-44cb-bd1e-fde33f066f0b@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:5bd8441e5bf945695436166a6220416a38ed738c@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261026T180000
 DTEND;TZID=Europe/Madrid:20261026T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
 END:VEVENT
 BEGIN:VEVENT
-UID:8c838a66-3037-4139-86d3-2bbba219aa48@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261027T180000
-DTEND;TZID=Europe/Madrid:20261027T184000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+UID:9454534e9b06add878a3791c3ac959fb7be4d078@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261027T203000
+DTEND;TZID=Europe/Madrid:20261027T211000
+SUMMARY:💪 Fuerza — Martes
+DESCRIPTION:40 min. 0-5' calentamiento + aproximaciones. 5-19' sentadilla/prensa\n3x5-6 @ RPE 7-7\,5\, 2'. 19-31' banca 3x5-6 @ RPE 7-7\,5\, 90s.\n31-38' remo apoyado 2x8-10 + brazos 2x10. 38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit cercano ha tenido mucho volumen del mismo patrón\n(piernas\, bisagra\, hombros\, espalda o agarre)\, reduce una serie o cambia el patrón\npor una variante menos fatigante. No entrenar al fallo.\nProgresión: cuando completes todas las series con técnica sólida y RPE <= 7\,5\,\nsube 2\,5-5 kg la próxima vez que aparezca el mismo patrón. Registra carga\, reps y RPE.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:06e80e03-54e9-4ba2-adb4-5e8e742b1adb@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:7122dec236d48a08546d9e6f6d58ba359405e250@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261027T210000
 DTEND;TZID=Europe/Madrid:20261027T221500
-SUMMARY:Desarrollo - Node y arquitectura
-DESCRIPTION:Implementar un endpoint con validacion\, controller\, use case\, repository y manejo de errores. Escribir pruebas basicas. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Lit/Web Components
+DESCRIPTION:15' repaso. 45' construir un componente Lit reutilizable con properties\, state\, CustomEvent y slot. 10' compararlo con Angular. 5' registrar.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://lit.dev/docs/getting-started/\nhttps://lit.dev/docs/components/properties/\nhttps://lit.dev/docs/components/lifecycle/\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_templates_and_slots
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:8d4878c9-5040-4d0d-9566-cd5ee334e273@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:6edbcd45edc6baa32a9b3d5963d0b9ce3ae1171c@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261028T180000
+DTEND;TZID=Europe/Madrid:20261028T191500
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
+END:VEVENT
+BEGIN:VEVENT
+UID:15f9e505f70537184175f293048ed245804f52a4@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261028T210000
 DTEND;TZID=Europe/Madrid:20261028T221500
-SUMMARY:Desarrollo - Arquitectura frontend
-DESCRIPTION:Disenar una pequena aplicacion: componentes\, dominio\, estado\, API y persistencia. Justificar fronteras y evitar sobrearquitectura. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Contexto IT
+DESCRIPTION:75' estudiar un tema: CI/CD\, Docker\, cloud\, observabilidad\, seguridad\, cachés\,\ncolas o arquitectura distribuida. Resultado: mapa conceptual + 5 preguntas.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://docs.docker.com/get-started/\nhttps://nodejs.org/en/learn\nhttps://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:10c67693-6ade-4f63-ab60-3e70fe2a32b3@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261029T180000
-DTEND;TZID=Europe/Madrid:20261029T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+UID:1706c07fe2dc2c8766ee433a7d01960fbbf5ee08@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261029T070000
+DTEND;TZID=Europe/Madrid:20261029T073500
+SUMMARY:💪 Fuerza — Jueves OPCIONAL
+DESCRIPTION:30-35'. Press máquina 3x8 + remo con pecho apoyado 3x8 +\nbrazos 2x10 + core. Todo @ RPE 6-7.\nDuración: 30-35 min.\nEsta sesión solo se hace si el CrossFit del miércoles fue ligero/moderado y te\nencuentras recuperado. RPE 6-7. Si hay fatiga relevante de hombros\, espalda\, piernas\no agarre: DESCANSO. Esta tercera sesión es opcional\, no obligatoria.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:c2ae2217-b912-4e04-bc53-f62a1b9ad059@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:2e7fbed128af98dfeb2a79229d257c9d44dbef3e@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261030T070000
 DTEND;TZID=Europe/Madrid:20261030T074000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+SUMMARY:💪 Fuerza — Viernes
+DESCRIPTION:40 min. 0-5' calentamiento. 5-19' bisagra o pierna 3x5-6 @ RPE 7\, 2'.\n19-31' empuje principal 3x6-8 @ RPE 7\, 90s. 31-38' tirón + brazos 2x10.\n38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit del miércoles/jueves tuvo mucho volumen de\ndeadlift\, clean/snatch\, swings\, sentadillas\, lunges\, hombros o agarre\, cambia el\npatrón coincidente por una variante menos fatigante. No entrenar al fallo.\nProgresión: RPE 7 como base\; sube carga solo con técnica sólida.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:30c8aea2-0a31-4ec8-a87e-e88a7d5ed58e@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:cda0470e81bc7223667fa2be3da27444cdf72652@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261030T210000
 DTEND;TZID=Europe/Madrid:20261030T221500
-SUMMARY:Desarrollo - Gym Tracker Pro
-DESCRIPTION:Implementar una pieza pequena y vertical del proyecto: UI\, dominio y datos. Priorizar una funcionalidad terminada. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Gym Tracker Pro
+DESCRIPTION:10' elegir una pieza vertical. 50' UI + lógica + datos/API. 10' pruebas. 5' commit/documentación. Resultado: feature funcionando.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals\nhttps://nodejs.org/en/learn\nhttps://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:202fc943-c920-474e-9cbc-811de65b0cc0@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:5fd69bd07a96bc6fa3a10faf5d170d372dfb30f0@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261101T100000
+DTEND;TZID=Europe/Madrid:20261101T113000
+SUMMARY:🚴 Bici
+DESCRIPTION:60-120' preferentemente Z2/ritmo conversacional. Salida libre.\nRegistrar duración\, distancia\, desnivel y sensaciones. Si la semana está cargada\,\n60' es suficiente.
+LOCATION:Bici
+END:VEVENT
+BEGIN:VEVENT
+UID:ba71536aff92c69d119a8f6f5012e0a10370d36b@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261101T200000
 DTEND;TZID=Europe/Madrid:20261101T211500
-SUMMARY:Desarrollo - Entrevista tecnica JS/TS
-DESCRIPTION:Responder preguntas de closures\, this\, prototipos\, event loop\, generics y type narrowing. Implementar 2 ejercicios sin consultar soluciones. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Code review
+DESCRIPTION:15' revisar naming/duplicación. 20' tipos y errores. 20' arquitectura. 15' tests. 5' refactor final. Resultado: diff antes/después.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:846ff9ee-af0b-4c64-9ef7-a288ce524e01@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:b43795b572f7770a78a7cc2558d08896b42b55fc@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261102T180000
 DTEND;TZID=Europe/Madrid:20261102T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
 END:VEVENT
 BEGIN:VEVENT
-UID:ce74b459-7601-4250-b39c-4977243a8337@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261103T180000
-DTEND;TZID=Europe/Madrid:20261103T184000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+UID:cb7930c82323956f63fbba7e524f117cae5e801b@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261103T203000
+DTEND;TZID=Europe/Madrid:20261103T211000
+SUMMARY:💪 Fuerza — Martes
+DESCRIPTION:40 min. 0-5' calentamiento + aproximaciones. 5-19' peso muerto/RDL\n3x4-6 @ RPE 7\, 2'. 19-31' press inclinado/militar 3x6-8 @ RPE 7\, 90s.\n31-38' jalón/remo 2x8-10 + brazos 2x10. 38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit cercano ha tenido mucho volumen del mismo patrón\n(piernas\, bisagra\, hombros\, espalda o agarre)\, reduce una serie o cambia el patrón\npor una variante menos fatigante. No entrenar al fallo.\nProgresión: cuando completes todas las series con técnica sólida y RPE <= 7\,5\,\nsube 2\,5-5 kg la próxima vez que aparezca el mismo patrón. Registra carga\, reps y RPE.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:9fe06528-94c3-47c0-8877-1138f505248e@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:9aba8a8d38dba5669336c248a9c8ac9682a5b8ac@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261103T210000
 DTEND;TZID=Europe/Madrid:20261103T221500
-SUMMARY:Desarrollo - Rendimiento Angular
-DESCRIPTION:Revisar change detection\, OnPush\, signals\, @for\, lazy loading y memoizacion. Aplicar 2 mejoras a un ejemplo. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Entrevista técnica
+DESCRIPTION:20' cinco preguntas JS/TS. 25' dos ejercicios de código. 20' explicación oral. 10' registrar fallos.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:9af68eb2-9991-45d0-aa5d-02887d80af32@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:37073f11505b9eee11c99274fe4a1eb59ec5a23c@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261104T180000
+DTEND;TZID=Europe/Madrid:20261104T191500
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
+END:VEVENT
+BEGIN:VEVENT
+UID:8eed739a0ebac5ab8223f06a9027a638eacdb1c6@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261104T210000
 DTEND;TZID=Europe/Madrid:20261104T221500
-SUMMARY:Desarrollo - Accesibilidad
-DESCRIPTION:Auditar teclado\, foco\, labels\, roles\, contraste y mensajes de error. Corregir los problemas encontrados. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — IA aplicada al desarrollo
+DESCRIPTION:20' investigar usos útiles de LLMs en código/tests/documentación. 30' probar un flujo\ncon verificación. 15' identificar riesgos. 10' crear checklist personal.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:a9f6537c-3523-42b0-86f0-2bb5e6ffd108@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261105T180000
-DTEND;TZID=Europe/Madrid:20261105T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+UID:7cb66d55595639ebe393314ce973415ea9d8c34e@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261105T070000
+DTEND;TZID=Europe/Madrid:20261105T073500
+SUMMARY:💪 Fuerza — Jueves OPCIONAL
+DESCRIPTION:30-35'. Press máquina 3x8 + remo con pecho apoyado 3x8 +\nbrazos 2x10 + core. Todo @ RPE 6-7.\nDuración: 30-35 min.\nEsta sesión solo se hace si el CrossFit del miércoles fue ligero/moderado y te\nencuentras recuperado. RPE 6-7. Si hay fatiga relevante de hombros\, espalda\, piernas\no agarre: DESCANSO. Esta tercera sesión es opcional\, no obligatoria.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:9a5628db-50bf-4303-a2c1-66092b9c7034@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:891614d1a3a3ceb74a260ae97344e66afe7964d3@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261106T070000
 DTEND;TZID=Europe/Madrid:20261106T074000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+SUMMARY:💪 Fuerza — Viernes
+DESCRIPTION:40 min. 0-5' calentamiento. 5-19' bisagra o pierna 3x5-6 @ RPE 7\, 2'.\n19-31' empuje principal 3x6-8 @ RPE 7\, 90s. 31-38' tirón + brazos 2x10.\n38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit del miércoles/jueves tuvo mucho volumen de\ndeadlift\, clean/snatch\, swings\, sentadillas\, lunges\, hombros o agarre\, cambia el\npatrón coincidente por una variante menos fatigante. No entrenar al fallo.\nProgresión: RPE 7 como base\; sube carga solo con técnica sólida.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:9b5fffd5-c06c-446f-8123-c9aed5bea584@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:5a7bf702624c3b777e1e19d0617f689e129649dd@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261106T210000
 DTEND;TZID=Europe/Madrid:20261106T221500
-SUMMARY:Desarrollo - Angular avanzado
-DESCRIPTION:Implementar una pequena feature con standalone components\, signals/RxJS y separacion clara entre UI\, dominio y datos. Documentar 3 decisiones tecnicas. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Angular avanzado
+DESCRIPTION:10' repaso mínimo. 50' implementar una feature con standalone components y signals/RxJS. 10' code review. 5' registrar 3 decisiones técnicas.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:e63f2dff-41d1-4eb2-9027-9c7feca3178b@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:c593ddc7870879468994f213ad58ac50fd1f3e31@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261108T100000
+DTEND;TZID=Europe/Madrid:20261108T113000
+SUMMARY:🚴 Bici
+DESCRIPTION:60-120' preferentemente Z2/ritmo conversacional. Salida libre.\nRegistrar duración\, distancia\, desnivel y sensaciones. Si la semana está cargada\,\n60' es suficiente.
+LOCATION:Bici
+END:VEVENT
+BEGIN:VEVENT
+UID:a9932df86eb9125c6a0a9435385e1cab89ce9fb8@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261108T200000
 DTEND;TZID=Europe/Madrid:20261108T211500
-SUMMARY:Desarrollo - TypeScript avanzado
-DESCRIPTION:Practicar generics\, constraints\, Pick\, Omit\, Partial\, Record\, discriminated unions y type narrowing. Crear 3 ejemplos reutilizables. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — TypeScript profundo
+DESCRIPTION:15' generics/constraints. 20' narrowing. 25' utility/mapped/conditional types. 10' crear 3 ejemplos. 5' explicar cuándo NO complicar los tipos.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:8845d9af-fee0-49e7-a0f5-56a624454cd8@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:6cc3b4bd50dfa8605ef7911067e2936ea392f1e3@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261109T180000
 DTEND;TZID=Europe/Madrid:20261109T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
 END:VEVENT
 BEGIN:VEVENT
-UID:6ee1b876-6e9a-43a3-b42c-739ae0c68c4e@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261110T180000
-DTEND;TZID=Europe/Madrid:20261110T184000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+UID:6b54415c71e72b9423674ef3e2688961e4f33da6@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261110T203000
+DTEND;TZID=Europe/Madrid:20261110T211000
+SUMMARY:💪 Fuerza — Martes
+DESCRIPTION:40 min. 0-5' calentamiento + aproximaciones. 5-19' sentadilla/prensa\n3x5-6 @ RPE 7-7\,5\, 2'. 19-31' banca 3x5-6 @ RPE 7-7\,5\, 90s.\n31-38' remo apoyado 2x8-10 + brazos 2x10. 38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit cercano ha tenido mucho volumen del mismo patrón\n(piernas\, bisagra\, hombros\, espalda o agarre)\, reduce una serie o cambia el patrón\npor una variante menos fatigante. No entrenar al fallo.\nProgresión: cuando completes todas las series con técnica sólida y RPE <= 7\,5\,\nsube 2\,5-5 kg la próxima vez que aparezca el mismo patrón. Registra carga\, reps y RPE.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:fe3c3b08-379d-4e6b-a517-eabe9d96aedd@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:c8574f2afb6ecf69b358200013e087187b88446d@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261110T210000
 DTEND;TZID=Europe/Madrid:20261110T221500
-SUMMARY:Desarrollo - Lit y Web Components
-DESCRIPTION:Construir un componente Lit reutilizable con propiedades\, estado\, CustomEvent\, slots y Shadow DOM. Compararlo con Angular. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — JavaScript profundo
+DESCRIPTION:15' event loop/closures. 35' ejercicios de promises\, async/await y microtasks. 15' corregir. 10' explicar resultados sin apuntes.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:4e6dfed5-ae0f-48b7-b0fd-7be9c50cfbe9@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:2d2ba703a92ad29984ea488831a12ffaf393d081@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261111T180000
+DTEND;TZID=Europe/Madrid:20261111T191500
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
+END:VEVENT
+BEGIN:VEVENT
+UID:48c99f09b0f0b0d58babd6d4281d59dd6319584a@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261111T210000
 DTEND;TZID=Europe/Madrid:20261111T221500
-SUMMARY:Desarrollo - JavaScript asincrono
-DESCRIPTION:Practicar event loop\, microtasks\, macrotasks\, Promise\, async/await\, errores y concurrencia. Resolver ejercicios y explicar cada resultado. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Node/AdonisJS
+DESCRIPTION:10' diseño. 45' implementar endpoint con validación\, capas\, errores y persistencia. 15' test. 5' registrar decisiones.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://nodejs.org/en/learn\nhttps://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:acbbed23-de42-4692-bd98-b5b70bf14949@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261112T180000
-DTEND;TZID=Europe/Madrid:20261112T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+UID:a97fe01c62f3a7dc28c67243cd7144d5899eac96@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261112T070000
+DTEND;TZID=Europe/Madrid:20261112T073500
+SUMMARY:💪 Fuerza — Jueves OPCIONAL
+DESCRIPTION:30-35'. Press máquina 3x8 + remo con pecho apoyado 3x8 +\nbrazos 2x10 + core. Todo @ RPE 6-7.\nDuración: 30-35 min.\nEsta sesión solo se hace si el CrossFit del miércoles fue ligero/moderado y te\nencuentras recuperado. RPE 6-7. Si hay fatiga relevante de hombros\, espalda\, piernas\no agarre: DESCANSO. Esta tercera sesión es opcional\, no obligatoria.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:64f779ba-2a87-45eb-9fed-434911f8a237@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:56b2e579da787fee9614b9bd063fdd25c431d6a5@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261113T070000
 DTEND;TZID=Europe/Madrid:20261113T074000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+SUMMARY:💪 Fuerza — Viernes
+DESCRIPTION:40 min. 0-5' calentamiento. 5-19' bisagra o pierna 3x5-6 @ RPE 7\, 2'.\n19-31' empuje principal 3x6-8 @ RPE 7\, 90s. 31-38' tirón + brazos 2x10.\n38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit del miércoles/jueves tuvo mucho volumen de\ndeadlift\, clean/snatch\, swings\, sentadillas\, lunges\, hombros o agarre\, cambia el\npatrón coincidente por una variante menos fatigante. No entrenar al fallo.\nProgresión: RPE 7 como base\; sube carga solo con técnica sólida.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:851027ed-aa16-4923-a02a-c182409c9feb@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:9b2fdfd24cf1660e5bfd7ce9af463c553a9f570a@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261113T210000
 DTEND;TZID=Europe/Madrid:20261113T221500
-SUMMARY:Desarrollo - RxJS
-DESCRIPTION:Construir un flujo realista de busqueda con debounceTime\, distinctUntilChanged\, switchMap\, catchError y finalize. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Testing
+DESCRIPTION:10' elegir feature. 45' tests happy path + error + edge case. 15' ejecutar/corregir. 5' registrar aprendizaje.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:e61786a3-ce25-4d01-ac56-34fd75efee61@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:bbce37b6b1f4c2fa7854a19ec19cfeeee187656c@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261115T100000
+DTEND;TZID=Europe/Madrid:20261115T113000
+SUMMARY:🚴 Bici
+DESCRIPTION:60-120' preferentemente Z2/ritmo conversacional. Salida libre.\nRegistrar duración\, distancia\, desnivel y sensaciones. Si la semana está cargada\,\n60' es suficiente.
+LOCATION:Bici
+END:VEVENT
+BEGIN:VEVENT
+UID:27d97b7ad6b009ac6deaeee69d987e3167e858d3@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261115T200000
 DTEND;TZID=Europe/Madrid:20261115T211500
-SUMMARY:Desarrollo - Testing frontend
-DESCRIPTION:Escribir tests de componente o servicio cubriendo happy path\, errores y casos limite. Revisar mantenibilidad. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Arquitectura
+DESCRIPTION:15' elegir feature. 30' diseñar UI→dominio→API→BD. 20' comparar dos alternativas y trade-offs. 10' escribir ADR corto.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals\nhttps://nodejs.org/en/learn\nhttps://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:272d1ba2-6876-4294-a5e4-f75954fb8b32@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:659ee0a9ee177610cbe0d50e57684f5248443e1d@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261116T180000
 DTEND;TZID=Europe/Madrid:20261116T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
 END:VEVENT
 BEGIN:VEVENT
-UID:c45aaba1-0d5d-4b9d-80f1-dd4650218474@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261117T180000
-DTEND;TZID=Europe/Madrid:20261117T184000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+UID:33ce567c2ee81e8cefbba107ca2d167b8ed53d74@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261117T203000
+DTEND;TZID=Europe/Madrid:20261117T211000
+SUMMARY:💪 Fuerza — Martes
+DESCRIPTION:40 min. 0-5' calentamiento + aproximaciones. 5-19' peso muerto/RDL\n3x4-6 @ RPE 7\, 2'. 19-31' press inclinado/militar 3x6-8 @ RPE 7\, 90s.\n31-38' jalón/remo 2x8-10 + brazos 2x10. 38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit cercano ha tenido mucho volumen del mismo patrón\n(piernas\, bisagra\, hombros\, espalda o agarre)\, reduce una serie o cambia el patrón\npor una variante menos fatigante. No entrenar al fallo.\nProgresión: cuando completes todas las series con técnica sólida y RPE <= 7\,5\,\nsube 2\,5-5 kg la próxima vez que aparezca el mismo patrón. Registra carga\, reps y RPE.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:1a502601-530c-4bf0-90fa-208b76ca2708@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:a87c49b26b319f5b5d8c6c2a05bffadbcaa9c868@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261117T210000
 DTEND;TZID=Europe/Madrid:20261117T221500
-SUMMARY:Desarrollo - Node y arquitectura
-DESCRIPTION:Implementar un endpoint con validacion\, controller\, use case\, repository y manejo de errores. Escribir pruebas basicas. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Lit/Web Components
+DESCRIPTION:15' repaso. 45' construir un componente Lit reutilizable con properties\, state\, CustomEvent y slot. 10' compararlo con Angular. 5' registrar.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://lit.dev/docs/getting-started/\nhttps://lit.dev/docs/components/properties/\nhttps://lit.dev/docs/components/lifecycle/\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM\nhttps://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_templates_and_slots
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:e00521ee-1e1d-4503-8161-df0379b58fb6@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:c3d6f88e0feba216e3b408849e1931e65e587b0f@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261118T180000
+DTEND;TZID=Europe/Madrid:20261118T191500
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
+END:VEVENT
+BEGIN:VEVENT
+UID:cd10586060bdd097e68eff31355c5dbc62d0c10f@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261118T210000
 DTEND;TZID=Europe/Madrid:20261118T221500
-SUMMARY:Desarrollo - Arquitectura frontend
-DESCRIPTION:Disenar una pequena aplicacion: componentes\, dominio\, estado\, API y persistencia. Justificar fronteras y evitar sobrearquitectura. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Contexto IT
+DESCRIPTION:75' estudiar un tema: CI/CD\, Docker\, cloud\, observabilidad\, seguridad\, cachés\,\ncolas o arquitectura distribuida. Resultado: mapa conceptual + 5 preguntas.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://docs.docker.com/get-started/\nhttps://nodejs.org/en/learn\nhttps://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:2785418c-626c-4960-9a59-09f6d0e18f7c@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261119T180000
-DTEND;TZID=Europe/Madrid:20261119T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+UID:9e4bf1ca9a990e17f4b411facedccfe12eea5a23@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261119T070000
+DTEND;TZID=Europe/Madrid:20261119T073500
+SUMMARY:💪 Fuerza — Jueves OPCIONAL
+DESCRIPTION:30-35'. Press máquina 3x8 + remo con pecho apoyado 3x8 +\nbrazos 2x10 + core. Todo @ RPE 6-7.\nDuración: 30-35 min.\nEsta sesión solo se hace si el CrossFit del miércoles fue ligero/moderado y te\nencuentras recuperado. RPE 6-7. Si hay fatiga relevante de hombros\, espalda\, piernas\no agarre: DESCANSO. Esta tercera sesión es opcional\, no obligatoria.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:8ab15009-13d6-49d6-a167-88d84bf9ab4c@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:75458b0a9c538d1e73fbdf7719309f0b21203b20@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261120T070000
 DTEND;TZID=Europe/Madrid:20261120T074000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+SUMMARY:💪 Fuerza — Viernes
+DESCRIPTION:40 min. 0-5' calentamiento. 5-19' bisagra o pierna 3x5-6 @ RPE 7\, 2'.\n19-31' empuje principal 3x6-8 @ RPE 7\, 90s. 31-38' tirón + brazos 2x10.\n38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit del miércoles/jueves tuvo mucho volumen de\ndeadlift\, clean/snatch\, swings\, sentadillas\, lunges\, hombros o agarre\, cambia el\npatrón coincidente por una variante menos fatigante. No entrenar al fallo.\nProgresión: RPE 7 como base\; sube carga solo con técnica sólida.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:cf3ee8c6-3b59-43f2-9d76-81274796d8b6@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:67bca2f8ede545a283718272f93d1fd5dfe44367@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261120T210000
 DTEND;TZID=Europe/Madrid:20261120T221500
-SUMMARY:Desarrollo - Gym Tracker Pro
-DESCRIPTION:Implementar una pieza pequena y vertical del proyecto: UI\, dominio y datos. Priorizar una funcionalidad terminada. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Gym Tracker Pro
+DESCRIPTION:10' elegir una pieza vertical. 50' UI + lógica + datos/API. 10' pruebas. 5' commit/documentación. Resultado: feature funcionando.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals\nhttps://nodejs.org/en/learn\nhttps://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:af7a290a-2231-4560-b266-db41279b41c4@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:f22c9b87a39f59fbbddb40720932065fa07d322b@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261122T100000
+DTEND;TZID=Europe/Madrid:20261122T113000
+SUMMARY:🚴 Bici
+DESCRIPTION:60-120' preferentemente Z2/ritmo conversacional. Salida libre.\nRegistrar duración\, distancia\, desnivel y sensaciones. Si la semana está cargada\,\n60' es suficiente.
+LOCATION:Bici
+END:VEVENT
+BEGIN:VEVENT
+UID:c6d02d866f1d9f2e47301e7fd3ad7f2df744e518@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261122T200000
 DTEND;TZID=Europe/Madrid:20261122T211500
-SUMMARY:Desarrollo - Entrevista tecnica JS/TS
-DESCRIPTION:Responder preguntas de closures\, this\, prototipos\, event loop\, generics y type narrowing. Implementar 2 ejercicios sin consultar soluciones. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Code review
+DESCRIPTION:15' revisar naming/duplicación. 20' tipos y errores. 20' arquitectura. 15' tests. 5' refactor final. Resultado: diff antes/después.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:bc9e2936-d048-4964-8730-212e91cecdd0@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:ecad709162706aac66c7adbeb24bd22b734f7570@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261123T180000
 DTEND;TZID=Europe/Madrid:20261123T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
 END:VEVENT
 BEGIN:VEVENT
-UID:a064362a-2147-413a-9fd6-d6ebb05f52e2@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261124T180000
-DTEND;TZID=Europe/Madrid:20261124T184000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
+UID:dd65d7b3256e272d2ec799f22a66b9881eaba1fe@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261124T203000
+DTEND;TZID=Europe/Madrid:20261124T211000
+SUMMARY:💪 Fuerza — Martes
+DESCRIPTION:40 min. 0-5' calentamiento + aproximaciones. 5-19' sentadilla/prensa\n3x5-6 @ RPE 7-7\,5\, 2'. 19-31' banca 3x5-6 @ RPE 7-7\,5\, 90s.\n31-38' remo apoyado 2x8-10 + brazos 2x10. 38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit cercano ha tenido mucho volumen del mismo patrón\n(piernas\, bisagra\, hombros\, espalda o agarre)\, reduce una serie o cambia el patrón\npor una variante menos fatigante. No entrenar al fallo.\nProgresión: cuando completes todas las series con técnica sólida y RPE <= 7\,5\,\nsube 2\,5-5 kg la próxima vez que aparezca el mismo patrón. Registra carga\, reps y RPE.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:8051945c-745f-459d-a4b4-5033f16ba70e@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:eb287b897070448fd71d43dfa903454e2fbb364b@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261124T210000
 DTEND;TZID=Europe/Madrid:20261124T221500
-SUMMARY:Desarrollo - Rendimiento Angular
-DESCRIPTION:Revisar change detection\, OnPush\, signals\, @for\, lazy loading y memoizacion. Aplicar 2 mejoras a un ejemplo. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Entrevista técnica
+DESCRIPTION:20' cinco preguntas JS/TS. 25' dos ejercicios de código. 20' explicación oral. 10' registrar fallos.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:9cd36173-7fa8-4a3a-801e-9035d2f4a6f5@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:c23f31a5bb2678a03690397c79fe74bde722e70b@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261125T180000
+DTEND;TZID=Europe/Madrid:20261125T191500
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad73b2f8c48dac2520c2eef393e5f2d92773bb9@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261125T210000
 DTEND;TZID=Europe/Madrid:20261125T221500
-SUMMARY:Desarrollo - Accesibilidad
-DESCRIPTION:Auditar teclado\, foco\, labels\, roles\, contraste y mensajes de error. Corregir los problemas encontrados. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — IA aplicada al desarrollo
+DESCRIPTION:20' investigar usos útiles de LLMs en código/tests/documentación. 30' probar un flujo\ncon verificación. 15' identificar riesgos. 10' crear checklist personal.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:da38932f-5561-4347-ab06-3ea600dc93da@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261126T180000
-DTEND;TZID=Europe/Madrid:20261126T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
+UID:7e5f2f9b780899e1a4c54066cf1a410ceabecacb@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261126T070000
+DTEND;TZID=Europe/Madrid:20261126T073500
+SUMMARY:💪 Fuerza — Jueves OPCIONAL
+DESCRIPTION:30-35'. Press máquina 3x8 + remo con pecho apoyado 3x8 +\nbrazos 2x10 + core. Todo @ RPE 6-7.\nDuración: 30-35 min.\nEsta sesión solo se hace si el CrossFit del miércoles fue ligero/moderado y te\nencuentras recuperado. RPE 6-7. Si hay fatiga relevante de hombros\, espalda\, piernas\no agarre: DESCANSO. Esta tercera sesión es opcional\, no obligatoria.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:f9d4b75e-4d13-4ec0-8dcd-dd3465429d82@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:a649528bd5b0118d9ee1ef933dddd52f9ad61d6a@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261127T070000
 DTEND;TZID=Europe/Madrid:20261127T074000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
+SUMMARY:💪 Fuerza — Viernes
+DESCRIPTION:40 min. 0-5' calentamiento. 5-19' bisagra o pierna 3x5-6 @ RPE 7\, 2'.\n19-31' empuje principal 3x6-8 @ RPE 7\, 90s. 31-38' tirón + brazos 2x10.\n38-40' core.\nDuración: 40 min.\nRegla de adaptación: si el CrossFit del miércoles/jueves tuvo mucho volumen de\ndeadlift\, clean/snatch\, swings\, sentadillas\, lunges\, hombros o agarre\, cambia el\npatrón coincidente por una variante menos fatigante. No entrenar al fallo.\nProgresión: RPE 7 como base\; sube carga solo con técnica sólida.\n
+LOCATION:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
-UID:f304d554-b691-4682-834c-2f649827299c@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:aeb5e6c453e4b244ad60a606c119478d63195b4b@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261127T210000
 DTEND;TZID=Europe/Madrid:20261127T221500
-SUMMARY:Desarrollo - Angular avanzado
-DESCRIPTION:Implementar una pequena feature con standalone components\, signals/RxJS y separacion clara entre UI\, dominio y datos. Documentar 3 decisiones tecnicas. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — Angular avanzado
+DESCRIPTION:10' repaso mínimo. 50' implementar una feature con standalone components y signals/RxJS. 10' code review. 5' registrar 3 decisiones técnicas.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://angular.dev/guide/components\nhttps://angular.dev/guide/signals
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:9270f23b-76f7-406e-a139-5379e52ff293@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:7dbabf6103cfaa8e3e3eb21d315bc0e7f020c877@luispa-calendar
+DTSTAMP:20260824T190000Z
+DTSTART;TZID=Europe/Madrid:20261129T100000
+DTEND;TZID=Europe/Madrid:20261129T113000
+SUMMARY:🚴 Bici
+DESCRIPTION:60-120' preferentemente Z2/ritmo conversacional. Salida libre.\nRegistrar duración\, distancia\, desnivel y sensaciones. Si la semana está cargada\,\n60' es suficiente.
+LOCATION:Bici
+END:VEVENT
+BEGIN:VEVENT
+UID:9e3297f6bf0a01ec5df7b94ac3ec78b6f678f29d@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261129T200000
 DTEND;TZID=Europe/Madrid:20261129T211500
-SUMMARY:Desarrollo - TypeScript avanzado
-DESCRIPTION:Practicar generics\, constraints\, Pick\, Omit\, Partial\, Record\, discriminated unions y type narrowing. Crear 3 ejemplos reutilizables. Duracion: 75 min. Empezar directamente con la tarea.
+SUMMARY:🧠 Desarrollo — TypeScript profundo
+DESCRIPTION:15' generics/constraints. 20' narrowing. 25' utility/mapped/conditional types. 10' crear 3 ejemplos. 5' explicar cuándo NO complicar los tipos.\nDuración: 75 min.\nMétodo: concepto mínimo → práctica escribiendo código → feedback/corrección →\nexplicación sin apuntes → registro.\nResultado obligatorio: código funcionando\, ejercicio resuelto\, test\, feature o\nexplicación estructurada. No terminar una sesión solo habiendo leído teoría.\n\nRecursos:\nhttps://www.typescriptlang.org/docs/handbook/2/generics.html\nhttps://www.typescriptlang.org/docs/handbook/2/narrowing.html\nhttps://www.typescriptlang.org/docs/
+LOCATION:Estudio
 END:VEVENT
 BEGIN:VEVENT
-UID:fe652b84-04cc-493c-8fcd-34da9f474c36@luispa-calendar
-DTSTAMP:20260817T194000Z
+UID:edb725a673b167382a3e1b0aa3358e5f4ac3f08d@luispa-calendar
+DTSTAMP:20260824T190000Z
 DTSTART;TZID=Europe/Madrid:20261130T180000
 DTEND;TZID=Europe/Madrid:20261130T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
-END:VEVENT
-BEGIN:VEVENT
-UID:b7dd844a-f168-4414-8ea0-c9ec9f68a2b2@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261201T180000
-DTEND;TZID=Europe/Madrid:20261201T184000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
-END:VEVENT
-BEGIN:VEVENT
-UID:e0a4c060-3c00-4daf-991f-8367e44f678e@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261201T210000
-DTEND;TZID=Europe/Madrid:20261201T221500
-SUMMARY:Desarrollo - Lit y Web Components
-DESCRIPTION:Construir un componente Lit reutilizable con propiedades\, estado\, CustomEvent\, slots y Shadow DOM. Compararlo con Angular. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:df4a9a49-fef2-416c-b7d6-59b412a7452d@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261202T210000
-DTEND;TZID=Europe/Madrid:20261202T221500
-SUMMARY:Desarrollo - JavaScript asincrono
-DESCRIPTION:Practicar event loop\, microtasks\, macrotasks\, Promise\, async/await\, errores y concurrencia. Resolver ejercicios y explicar cada resultado. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:d4f70fe6-dbc4-4c7f-86fa-6da3d62f42c5@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261203T180000
-DTEND;TZID=Europe/Madrid:20261203T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
-END:VEVENT
-BEGIN:VEVENT
-UID:9d43fb4f-859d-4e47-8abc-995dd090f44e@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261204T070000
-DTEND;TZID=Europe/Madrid:20261204T074000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
-END:VEVENT
-BEGIN:VEVENT
-UID:6bb539c7-d6cd-43e8-9ab8-a18fc688984f@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261204T210000
-DTEND;TZID=Europe/Madrid:20261204T221500
-SUMMARY:Desarrollo - RxJS
-DESCRIPTION:Construir un flujo realista de busqueda con debounceTime\, distinctUntilChanged\, switchMap\, catchError y finalize. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:08ee064f-ee24-4fee-9e3c-357382d386b7@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261206T200000
-DTEND;TZID=Europe/Madrid:20261206T211500
-SUMMARY:Desarrollo - Testing frontend
-DESCRIPTION:Escribir tests de componente o servicio cubriendo happy path\, errores y casos limite. Revisar mantenibilidad. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:20564217-1472-4c0f-b972-decbfe4d3d98@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261207T180000
-DTEND;TZID=Europe/Madrid:20261207T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
-END:VEVENT
-BEGIN:VEVENT
-UID:0dc8b4d3-6555-47e6-93d0-48e4ea86f99c@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261208T180000
-DTEND;TZID=Europe/Madrid:20261208T184000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
-END:VEVENT
-BEGIN:VEVENT
-UID:db7f0a2a-ae60-4610-94d1-48909b359a08@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261208T210000
-DTEND;TZID=Europe/Madrid:20261208T221500
-SUMMARY:Desarrollo - Node y arquitectura
-DESCRIPTION:Implementar un endpoint con validacion\, controller\, use case\, repository y manejo de errores. Escribir pruebas basicas. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:cc402e81-56ce-46ce-9522-7fe827762bc0@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261209T210000
-DTEND;TZID=Europe/Madrid:20261209T221500
-SUMMARY:Desarrollo - Arquitectura frontend
-DESCRIPTION:Disenar una pequena aplicacion: componentes\, dominio\, estado\, API y persistencia. Justificar fronteras y evitar sobrearquitectura. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:5ed43fbc-df65-47e9-8f15-59140b681105@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261210T180000
-DTEND;TZID=Europe/Madrid:20261210T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
-END:VEVENT
-BEGIN:VEVENT
-UID:43e65ac6-bd21-4fe5-8e5c-48efb5d0a9a1@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261211T070000
-DTEND;TZID=Europe/Madrid:20261211T074000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
-END:VEVENT
-BEGIN:VEVENT
-UID:37731945-bc2f-49b1-8019-6691a6e4fa1b@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261211T210000
-DTEND;TZID=Europe/Madrid:20261211T221500
-SUMMARY:Desarrollo - Gym Tracker Pro
-DESCRIPTION:Implementar una pieza pequena y vertical del proyecto: UI\, dominio y datos. Priorizar una funcionalidad terminada. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:e274bbc6-9b99-4b19-af53-06136f79a5d6@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261213T200000
-DTEND;TZID=Europe/Madrid:20261213T211500
-SUMMARY:Desarrollo - Entrevista tecnica JS/TS
-DESCRIPTION:Responder preguntas de closures\, this\, prototipos\, event loop\, generics y type narrowing. Implementar 2 ejercicios sin consultar soluciones. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:63067540-580d-4d2d-ac8c-5dcc022a29f0@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261214T180000
-DTEND;TZID=Europe/Madrid:20261214T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
-END:VEVENT
-BEGIN:VEVENT
-UID:db149b32-9f69-4b78-bc2f-db041707adba@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261215T180000
-DTEND;TZID=Europe/Madrid:20261215T184000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
-END:VEVENT
-BEGIN:VEVENT
-UID:0543dd47-7486-442b-8c08-6831a52df923@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261215T210000
-DTEND;TZID=Europe/Madrid:20261215T221500
-SUMMARY:Desarrollo - Rendimiento Angular
-DESCRIPTION:Revisar change detection\, OnPush\, signals\, @for\, lazy loading y memoizacion. Aplicar 2 mejoras a un ejemplo. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:77b0b566-1a76-4952-a058-1ded63821dd9@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261216T210000
-DTEND;TZID=Europe/Madrid:20261216T221500
-SUMMARY:Desarrollo - Accesibilidad
-DESCRIPTION:Auditar teclado\, foco\, labels\, roles\, contraste y mensajes de error. Corregir los problemas encontrados. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:0df2eea1-cf85-4cc7-9456-2ffa26fcfdf9@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261217T180000
-DTEND;TZID=Europe/Madrid:20261217T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
-END:VEVENT
-BEGIN:VEVENT
-UID:178233b2-b415-4b88-8f02-6ef0d169f190@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261218T070000
-DTEND;TZID=Europe/Madrid:20261218T074000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
-END:VEVENT
-BEGIN:VEVENT
-UID:85ddf5d4-f6ef-459d-8212-ee362e6c65fa@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261218T210000
-DTEND;TZID=Europe/Madrid:20261218T221500
-SUMMARY:Desarrollo - Angular avanzado
-DESCRIPTION:Implementar una pequena feature con standalone components\, signals/RxJS y separacion clara entre UI\, dominio y datos. Documentar 3 decisiones tecnicas. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:561006ad-2a82-489e-aa4d-184741c546d8@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261220T200000
-DTEND;TZID=Europe/Madrid:20261220T211500
-SUMMARY:Desarrollo - TypeScript avanzado
-DESCRIPTION:Practicar generics\, constraints\, Pick\, Omit\, Partial\, Record\, discriminated unions y type narrowing. Crear 3 ejemplos reutilizables. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:ca5d6db3-c560-47f1-add5-350859114872@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261221T180000
-DTEND;TZID=Europe/Madrid:20261221T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
-END:VEVENT
-BEGIN:VEVENT
-UID:75b5b548-9d49-40ec-86f0-2dda16146820@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261222T180000
-DTEND;TZID=Europe/Madrid:20261222T184000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
-END:VEVENT
-BEGIN:VEVENT
-UID:74ce695a-a976-43d0-b193-cb75b99de93c@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261222T210000
-DTEND;TZID=Europe/Madrid:20261222T221500
-SUMMARY:Desarrollo - Lit y Web Components
-DESCRIPTION:Construir un componente Lit reutilizable con propiedades\, estado\, CustomEvent\, slots y Shadow DOM. Compararlo con Angular. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:171e705d-1196-4e5b-9172-53a3e6e034aa@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261223T210000
-DTEND;TZID=Europe/Madrid:20261223T221500
-SUMMARY:Desarrollo - JavaScript asincrono
-DESCRIPTION:Practicar event loop\, microtasks\, macrotasks\, Promise\, async/await\, errores y concurrencia. Resolver ejercicios y explicar cada resultado. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:bba77c46-1928-4164-98b9-79cbeaf221de@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261224T180000
-DTEND;TZID=Europe/Madrid:20261224T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
-END:VEVENT
-BEGIN:VEVENT
-UID:075993cd-46d9-423b-b11f-b3f970b45889@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261225T070000
-DTEND;TZID=Europe/Madrid:20261225T074000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones.
-END:VEVENT
-BEGIN:VEVENT
-UID:adcf48dd-cf61-4386-914f-37eb8db6810d@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261225T210000
-DTEND;TZID=Europe/Madrid:20261225T221500
-SUMMARY:Desarrollo - RxJS
-DESCRIPTION:Construir un flujo realista de busqueda con debounceTime\, distinctUntilChanged\, switchMap\, catchError y finalize. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:cae725a6-538b-473f-9979-d8af2d0ea589@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261227T200000
-DTEND;TZID=Europe/Madrid:20261227T211500
-SUMMARY:Desarrollo - Testing frontend
-DESCRIPTION:Escribir tests de componente o servicio cubriendo happy path\, errores y casos limite. Revisar mantenibilidad. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:8adbb001-ea93-425f-a21c-3fb59e067f87@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261228T180000
-DTEND;TZID=Europe/Madrid:20261228T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
-END:VEVENT
-BEGIN:VEVENT
-UID:7827aba2-220e-4330-b2ca-1914b7fce626@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261229T180000
-DTEND;TZID=Europe/Madrid:20261229T184000
-SUMMARY:Fuerza - Gimnasio
-DESCRIPTION:Sesion de fuerza de 40 min. Registrar cargas y repeticiones. Mantener tecnica.
-END:VEVENT
-BEGIN:VEVENT
-UID:57eed64d-83c8-4fce-8547-f18551a75e36@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261229T210000
-DTEND;TZID=Europe/Madrid:20261229T221500
-SUMMARY:Desarrollo - Node y arquitectura
-DESCRIPTION:Implementar un endpoint con validacion\, controller\, use case\, repository y manejo de errores. Escribir pruebas basicas. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:61383fc8-2f38-4d10-8c08-4695c108dc85@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261230T210000
-DTEND;TZID=Europe/Madrid:20261230T221500
-SUMMARY:Desarrollo - Arquitectura frontend
-DESCRIPTION:Disenar una pequena aplicacion: componentes\, dominio\, estado\, API y persistencia. Justificar fronteras y evitar sobrearquitectura. Duracion: 75 min. Empezar directamente con la tarea.
-END:VEVENT
-BEGIN:VEVENT
-UID:887b16a1-b56e-48f7-9f9e-72656b4aee79@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20261231T180000
-DTEND;TZID=Europe/Madrid:20261231T191500
-SUMMARY:CrossFit
-DESCRIPTION:Sesion de CrossFit. Prioridad: tecnica\, intensidad controlada y buena ejecucion.
-END:VEVENT
-BEGIN:VEVENT
-UID:kisters-interview@luispa-calendar
-DTSTAMP:20260817T194000Z
-DTSTART;TZID=Europe/Madrid:20260902T100000
-DTEND;TZID=Europe/Madrid:20260902T110000
-SUMMARY:Entrevista - KISTERS AG
-DESCRIPTION:Entrevista inicial. Repaso recomendado: LitElement\, Web Components\, Angular\, TypeScript y experiencia profesional.
-LOCATION:Virtual
+SUMMARY:🏋️ CrossFit
+DESCRIPTION:Sesión de CrossFit. Registra WOD\, movimientos\, cargas\, tiempo y\nlimitante principal. Los WOD posteriores se usan aquí para adaptar la fuerza\,\nsin regenerar el calendario.
+LOCATION:CrossFit
 END:VEVENT
 END:VCALENDAR
